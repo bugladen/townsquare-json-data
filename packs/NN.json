@@ -6,10 +6,10 @@
     "available": "2015-08-03",
     "known": 21,
     "total": 21,
-    "url": "https://dtdb.co/en/set/NN",
+    "url": "/en/set/NN",
     "cards": [
         {
-            "last-modified": "2017-08-08T16:06:35+02:00",
+            "last-modified": "2017-08-08T16:06:35+00:00",
             "code": "08001",
             "title": "Junior",
             "type": "Dude",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "85989968-0332-4dc2-a5eb-9921267453ff",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/08001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08001.jpg"
+            "url": "/en/card/08001",
+            "imagesrc": "/images/cards/en/08001.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:28:03+02:00",
+            "last-modified": "2015-10-02T20:28:03+00:00",
             "code": "08002",
             "title": "The Fabulous Mister Miss",
             "type": "Dude",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4b50bf0d-29e3-4e93-8acc-f77c60b80e57",
+            "isMultiple": false,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/08002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08002.jpg"
+            "url": "/en/card/08002",
+            "imagesrc": "/images/cards/en/08002.jpg"
         },
         {
-            "last-modified": "2015-10-10T16:32:54+02:00",
+            "last-modified": "2015-10-10T16:32:54+00:00",
             "code": "08003",
             "title": "Sister Mary Gideon",
             "type": "Dude",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "92d9bfc1-4be6-4973-b820-0ac65e5d7b01",
+            "isMultiple": false,
             "value": "Spades9",
-            "url": "https://dtdb.co/en/card/08003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08003.jpg"
+            "url": "/en/card/08003",
+            "imagesrc": "/images/cards/en/08003.jpg"
         },
         {
-            "last-modified": "2017-03-25T11:42:36+01:00",
+            "last-modified": "2017-03-25T11:42:36+00:00",
             "code": "08004",
             "title": "Nathan Shane",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "65b724a9-49e4-4c1c-9db8-e3f3081fa3fe",
+            "isMultiple": true,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/08004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08004.jpg"
+            "url": "/en/card/08004",
+            "imagesrc": "/images/cards/en/08004.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:28:46+02:00",
+            "last-modified": "2015-10-02T20:28:46+00:00",
             "code": "08005",
             "title": "Warren Graves",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "e20afd82-c3d7-4152-aac9-4392a29733b8",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/08005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08005.jpg"
+            "url": "/en/card/08005",
+            "imagesrc": "/images/cards/en/08005.jpg"
         },
         {
-            "last-modified": "2015-07-30T22:33:51+02:00",
+            "last-modified": "2015-07-30T22:33:51+00:00",
             "code": "08006",
             "title": "Jack O'Hara",
             "type": "Dude",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "c4b260a0-1861-4300-8c96-6064f7367cb5",
+            "isMultiple": false,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/08006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08006.jpg"
+            "url": "/en/card/08006",
+            "imagesrc": "/images/cards/en/08006.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:29:18+02:00",
+            "last-modified": "2015-10-02T20:29:18+00:00",
             "code": "08007",
             "title": "John \"Aces\" Radcliffe",
             "type": "Dude",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "686696a5-da6b-46d7-92b2-2ba051a3153e",
+            "isMultiple": false,
             "value": "Spades4",
-            "url": "https://dtdb.co/en/card/08007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08007.jpg"
+            "url": "/en/card/08007",
+            "imagesrc": "/images/cards/en/08007.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:29:33+02:00",
+            "last-modified": "2015-10-02T20:29:33+00:00",
             "code": "08008",
             "title": "Steele Archer (Exp.1)",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ef19f3d5-a52f-403a-a342-ae32f3753120",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/08008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08008.jpg"
+            "url": "/en/card/08008",
+            "imagesrc": "/images/cards/en/08008.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:29:58+02:00",
+            "last-modified": "2015-10-02T20:29:58+00:00",
             "code": "08009",
             "title": "Old Man McDroste",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "8628bdf2-3900-4e36-941e-043560d81757",
+            "isMultiple": false,
             "value": "Spades13",
-            "url": "https://dtdb.co/en/card/08009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08009.jpg"
+            "url": "/en/card/08009",
+            "imagesrc": "/images/cards/en/08009.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:30:16+02:00",
+            "last-modified": "2015-10-02T20:30:16+00:00",
             "code": "08010",
             "title": "Flint's Amusements",
             "type": "Deed",
@@ -334,12 +343,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "29add78a-5369-43d9-80d9-4006f6757a6e",
+            "isMultiple": false,
             "value": "Diams6",
-            "url": "https://dtdb.co/en/card/08010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08010.jpg"
+            "url": "/en/card/08010",
+            "imagesrc": "/images/cards/en/08010.jpg"
         },
         {
-            "last-modified": "2015-07-22T20:56:09+02:00",
+            "last-modified": "2015-07-22T20:56:09+00:00",
             "code": "08011",
             "title": "Lula's Exploit",
             "type": "Deed",
@@ -367,12 +377,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "5529098d-fd5f-41c1-9121-58a4c2b41c89",
+            "isMultiple": false,
             "value": "Diams8",
-            "url": "https://dtdb.co/en/card/08011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08011.jpg"
+            "url": "/en/card/08011",
+            "imagesrc": "/images/cards/en/08011.jpg"
         },
         {
-            "last-modified": "2015-10-03T11:58:00+02:00",
+            "last-modified": "2015-10-03T11:58:00+00:00",
             "code": "08012",
             "title": "Testing Range",
             "type": "Deed",
@@ -400,12 +411,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "5448fd9b-6cce-4973-a40a-f4769b7f6f47",
+            "isMultiple": false,
             "value": "Diams12",
-            "url": "https://dtdb.co/en/card/08012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08012.jpg"
+            "url": "/en/card/08012",
+            "imagesrc": "/images/cards/en/08012.jpg"
         },
         {
-            "last-modified": "2015-10-10T16:32:48+02:00",
+            "last-modified": "2015-10-10T16:32:48+00:00",
             "code": "08013",
             "title": "Dog's Duster",
             "type": "Goods",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "6da3418d-0c64-425c-8191-680e7f2480b3",
+            "isMultiple": false,
             "value": "Hearts3",
-            "url": "https://dtdb.co/en/card/08013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08013.jpg"
+            "url": "/en/card/08013",
+            "imagesrc": "/images/cards/en/08013.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:31:44+02:00",
+            "last-modified": "2015-10-02T20:31:44+00:00",
             "code": "08014",
             "title": "Stoker's Sabre",
             "type": "Goods",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "0c37b916-b5e6-4e43-8640-8a970465b70e",
+            "isMultiple": false,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/08014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08014.jpg"
+            "url": "/en/card/08014",
+            "imagesrc": "/images/cards/en/08014.jpg"
         },
         {
-            "last-modified": "2019-06-17T00:32:41+02:00",
+            "last-modified": "2019-06-17T00:32:41+00:00",
             "code": "08015",
             "title": "Fate Dispenser",
             "type": "Goods",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "80905177-39e7-49fd-a244-aa6c70baa9e8",
+            "isMultiple": false,
             "value": "Hearts11",
-            "url": "https://dtdb.co/en/card/08015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08015.jpg"
+            "url": "/en/card/08015",
+            "imagesrc": "/images/cards/en/08015.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:32:19+02:00",
+            "last-modified": "2015-10-02T20:32:19+00:00",
             "code": "08016",
             "title": "Soul Cage",
             "type": "Goods",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "59978194-81c0-482e-8748-1df5b3a6245f",
+            "isMultiple": true,
             "value": "Hearts12",
-            "url": "https://dtdb.co/en/card/08016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08016.jpg"
+            "url": "/en/card/08016",
+            "imagesrc": "/images/cards/en/08016.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:32:46+02:00",
+            "last-modified": "2015-10-02T20:32:46+00:00",
             "code": "08017",
             "title": "For Such a Time as This",
             "type": "Spell",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "abed8d3b-d73f-4426-bbeb-6e0124aae9fb",
+            "isMultiple": false,
             "value": "Hearts11",
-            "url": "https://dtdb.co/en/card/08017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08017.jpg"
+            "url": "/en/card/08017",
+            "imagesrc": "/images/cards/en/08017.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:33:00+02:00",
+            "last-modified": "2015-10-02T20:33:00+00:00",
             "code": "08018",
             "title": "Sword of the Spirit",
             "type": "Spell",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "39e4ddd4-987b-450b-a3dd-260a20db35a0",
+            "isMultiple": true,
             "value": "Hearts13",
-            "url": "https://dtdb.co/en/card/08018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08018.jpg"
+            "url": "/en/card/08018",
+            "imagesrc": "/images/cards/en/08018.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:33:16+02:00",
+            "last-modified": "2015-10-02T20:33:16+00:00",
             "code": "08019",
             "title": "A Fight They'll Never Forget",
             "type": "Action",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "3f0bc78c-6b5d-4951-bcd1-a3ab3b08481e",
+            "isMultiple": true,
             "value": "Clubs2",
-            "url": "https://dtdb.co/en/card/08019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08019.jpg"
+            "url": "/en/card/08019",
+            "imagesrc": "/images/cards/en/08019.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:33:28+02:00",
+            "last-modified": "2015-10-02T20:33:28+00:00",
             "code": "08020",
             "title": "Buried Treasure",
             "type": "Action",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "e5e6dd23-04d0-4614-a8da-a9a74785a7c2",
+            "isMultiple": false,
             "value": "Clubs10",
-            "url": "https://dtdb.co/en/card/08020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08020.jpg"
+            "url": "/en/card/08020",
+            "imagesrc": "/images/cards/en/08020.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:33:42+02:00",
+            "last-modified": "2015-10-02T20:33:42+00:00",
             "code": "08021",
             "title": "Nightmare at Noon",
             "type": "Action",
@@ -697,9 +717,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "590b905c-f114-48d2-930f-66e446458c84",
+            "isMultiple": true,
             "value": "Clubs13",
-            "url": "https://dtdb.co/en/card/08021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/08021.jpg"
+            "url": "/en/card/08021",
+            "imagesrc": "/images/cards/en/08021.jpg"
         }
     ]
 }

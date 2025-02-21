@@ -6,10 +6,10 @@
     "available": "2016-07-05",
     "known": 21,
     "total": 21,
-    "url": "https://dtdb.co/en/set/AGE",
+    "url": "/en/set/AGE",
     "cards": [
         {
-            "last-modified": "2016-08-02T17:51:21+02:00",
+            "last-modified": "2016-08-02T17:51:21+00:00",
             "code": "16001",
             "title": "El Armadillo De Hierro",
             "type": "Dude",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "8c1e6faf-c90d-4167-9834-793ffcaa47f7",
+            "isMultiple": false,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/16001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16001.jpg"
+            "url": "/en/card/16001",
+            "imagesrc": "/images/cards/en/16001.jpg"
         },
         {
-            "last-modified": "2018-01-05T18:09:31+01:00",
+            "last-modified": "2018-01-05T18:09:31+00:00",
             "code": "16002",
             "title": "Jim Hexter",
             "type": "Dude",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "b1d4638a-0118-426f-a966-1a9c6ff0da5b",
+            "isMultiple": true,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/16002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16002.jpg"
+            "url": "/en/card/16002",
+            "imagesrc": "/images/cards/en/16002.jpg"
         },
         {
-            "last-modified": "2016-08-02T17:55:48+02:00",
+            "last-modified": "2016-08-02T17:55:48+00:00",
             "code": "16003",
             "title": "The Mixer",
             "type": "Dude",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "0c1b3abb-69eb-4f9b-9dfc-69942c2442a6",
+            "isMultiple": true,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/16003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16003.jpg"
+            "url": "/en/card/16003",
+            "imagesrc": "/images/cards/en/16003.jpg"
         },
         {
-            "last-modified": "2016-08-02T17:57:43+02:00",
+            "last-modified": "2016-08-02T17:57:43+00:00",
             "code": "16004",
             "title": "Hupirika Sue",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "d2e8e560-15ad-421d-931b-7bb9a8bc6b2c",
+            "isMultiple": false,
             "value": "Spades8",
-            "url": "https://dtdb.co/en/card/16004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16004.jpg"
+            "url": "/en/card/16004",
+            "imagesrc": "/images/cards/en/16004.jpg"
         },
         {
-            "last-modified": "2016-08-02T17:59:16+02:00",
+            "last-modified": "2016-08-02T17:59:16+00:00",
             "code": "16005",
             "title": "The Harvester",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "51b3db35-9811-4adf-89f6-7dd48b031bba",
+            "isMultiple": false,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/16005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16005.jpg"
+            "url": "/en/card/16005",
+            "imagesrc": "/images/cards/en/16005.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:12:17+02:00",
+            "last-modified": "2016-08-02T19:12:17+00:00",
             "code": "16006",
             "title": "Lucy Clover (Exp.1)",
             "type": "Dude",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "7477d1e2-14c6-45e8-8acd-9619ec2fa578",
+            "isMultiple": false,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/16006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16006.jpg"
+            "url": "/en/card/16006",
+            "imagesrc": "/images/cards/en/16006.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:13:32+02:00",
+            "last-modified": "2016-08-02T19:13:32+00:00",
             "code": "16007",
             "title": "Buckin' Billy Ballard",
             "type": "Dude",
@@ -235,19 +241,20 @@
             "control": null,
             "wealth": null,
             "octgnid": "314f6ee6-e572-44a2-9412-78bd822be671",
+            "isMultiple": true,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/16007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16007.jpg"
+            "url": "/en/card/16007",
+            "imagesrc": "/images/cards/en/16007.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:15:05+02:00",
+            "last-modified": "2016-08-02T19:15:05+00:00",
             "code": "16008",
             "title": "Antoine Peterson",
             "type": "Dude",
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "Transient",
-            "text": "<b>React:</b> After Antoine enters play, search your discard pile for an action card that starts a job and put it into your hand. Discard a card. You may unboot your <img src=\"/web/bundles/dtdbbuilder/images/sloanegang-20.png\" title=\"The Sloane Gang\"> dude at home and give them 2 bounty.",
+            "text": "<b>React:</b> After Antoine enters play, search your discard pile for an action card that starts a job and put it into your hand. Discard a card. You may unboot your <img src=\"/images/sloanegang-20.png\" title=\"The Sloane Gang\"> dude at home and give them 2 bounty.",
             "cost": 3,
             "gang": "Outlaws",
             "gang_code": "outlaws",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1120919a-d4b6-4655-b369-4f732b016e14",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/16008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16008.jpg"
+            "url": "/en/card/16008",
+            "imagesrc": "/images/cards/en/16008.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:16:18+02:00",
+            "last-modified": "2016-08-02T19:16:18+00:00",
             "code": "16009",
             "title": "Denise Brancini",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "be0ace53-d90a-4fff-a6a6-c5545667d83f",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/16009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16009.jpg"
+            "url": "/en/card/16009",
+            "imagesrc": "/images/cards/en/16009.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:19:50+02:00",
+            "last-modified": "2016-08-02T19:19:50+00:00",
             "code": "16010",
             "title": "Long Strides Ranch",
             "type": "Deed",
@@ -334,12 +343,13 @@
             "control": 0,
             "wealth": null,
             "octgnid": "fd144b71-3727-4333-be79-b57ab4fe3afc",
+            "isMultiple": true,
             "value": "Diams5",
-            "url": "https://dtdb.co/en/card/16010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16010.jpg"
+            "url": "/en/card/16010",
+            "imagesrc": "/images/cards/en/16010.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:21:56+02:00",
+            "last-modified": "2016-08-02T19:21:56+00:00",
             "code": "16011",
             "title": "The Gomorra Gazette",
             "type": "Deed",
@@ -367,12 +377,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "d03f58a7-ef6a-428e-a950-67e0b6245b66",
+            "isMultiple": true,
             "value": "Diams8",
-            "url": "https://dtdb.co/en/card/16011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16011.jpg"
+            "url": "/en/card/16011",
+            "imagesrc": "/images/cards/en/16011.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:23:23+02:00",
+            "last-modified": "2016-08-02T19:23:23+00:00",
             "code": "16012",
             "title": "\"Open Wound\"",
             "type": "Deed",
@@ -400,12 +411,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "7cc6fca2-a48a-4386-ba79-2fd94534b6ec",
+            "isMultiple": true,
             "value": "Diams13",
-            "url": "https://dtdb.co/en/card/16012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16012.jpg"
+            "url": "/en/card/16012",
+            "imagesrc": "/images/cards/en/16012.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:25:11+02:00",
+            "last-modified": "2016-08-02T19:25:11+00:00",
             "code": "16013",
             "title": "Doomsday Supply",
             "type": "Goods",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4461e319-d77d-4a76-ba9c-e401a4a99223",
+            "isMultiple": false,
             "value": "Hearts5",
-            "url": "https://dtdb.co/en/card/16013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16013.jpg"
+            "url": "/en/card/16013",
+            "imagesrc": "/images/cards/en/16013.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:28:54+02:00",
+            "last-modified": "2016-08-02T19:28:54+00:00",
             "code": "16014",
             "title": "Bacillus Pasteuria",
             "type": "Goods",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2e323023-c293-41ce-a87c-12fddba592d5",
+            "isMultiple": false,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/16014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16014.jpg"
+            "url": "/en/card/16014",
+            "imagesrc": "/images/cards/en/16014.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:43:33+02:00",
+            "last-modified": "2016-08-02T19:43:33+00:00",
             "code": "16015",
             "title": "The Blighted",
             "type": "Goods",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "af22f9d8-738b-4e7f-a13a-599089e51507",
+            "isMultiple": false,
             "value": "Hearts10",
-            "url": "https://dtdb.co/en/card/16015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16015.jpg"
+            "url": "/en/card/16015",
+            "imagesrc": "/images/cards/en/16015.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:47:13+02:00",
+            "last-modified": "2016-08-02T19:47:13+00:00",
             "code": "16016",
             "title": "Sun-Touched Raven",
             "type": "Spell",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "8b505b63-7954-42b6-b072-85b5b794c0fa",
+            "isMultiple": true,
             "value": "Hearts1",
-            "url": "https://dtdb.co/en/card/16016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16016.jpg"
+            "url": "/en/card/16016",
+            "imagesrc": "/images/cards/en/16016.jpg"
         },
         {
-            "last-modified": "2018-01-05T18:10:13+01:00",
+            "last-modified": "2018-01-05T18:10:13+00:00",
             "code": "16017",
             "title": "Inner Struggle",
             "type": "Action",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ba6d6429-9a34-4912-96c4-aee1649650f3",
+            "isMultiple": true,
             "value": "Clubs1",
-            "url": "https://dtdb.co/en/card/16017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16017.jpg"
+            "url": "/en/card/16017",
+            "imagesrc": "/images/cards/en/16017.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:50:33+02:00",
+            "last-modified": "2016-08-02T19:50:33+00:00",
             "code": "16018",
             "title": "Serendipitous Arrival",
             "type": "Action",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "f8fc9a76-cbd9-4ad5-b2c7-5cd40f150e79",
+            "isMultiple": false,
             "value": "Clubs3",
-            "url": "https://dtdb.co/en/card/16018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16018.jpg"
+            "url": "/en/card/16018",
+            "imagesrc": "/images/cards/en/16018.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:51:35+02:00",
+            "last-modified": "2016-08-02T19:51:35+00:00",
             "code": "16019",
             "title": "Siege Of The Orphanage",
             "type": "Action",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "059481a6-d607-4896-8584-fb596c4647f7",
+            "isMultiple": false,
             "value": "Clubs4",
-            "url": "https://dtdb.co/en/card/16019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16019.jpg"
+            "url": "/en/card/16019",
+            "imagesrc": "/images/cards/en/16019.jpg"
         },
         {
-            "last-modified": "2018-01-05T18:11:14+01:00",
+            "last-modified": "2018-01-05T18:11:14+00:00",
             "code": "16020",
             "title": "Lighting The Fuse",
             "type": "Action",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "49496e5f-974e-43f1-a85f-d9bda3de8325",
+            "isMultiple": false,
             "value": "Clubs5",
-            "url": "https://dtdb.co/en/card/16020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16020.jpg"
+            "url": "/en/card/16020",
+            "imagesrc": "/images/cards/en/16020.jpg"
         },
         {
-            "last-modified": "2016-08-02T19:57:38+02:00",
+            "last-modified": "2016-08-02T19:57:38+00:00",
             "code": "16021",
             "title": "One Fights As Many",
             "type": "Action",
@@ -697,9 +717,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "18f82dad-6f87-4a26-9dee-2859b4854b70",
+            "isMultiple": false,
             "value": "Clubs13",
-            "url": "https://dtdb.co/en/card/16021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/16021.jpg"
+            "url": "/en/card/16021",
+            "imagesrc": "/images/cards/en/16021.jpg"
         }
     ]
 }

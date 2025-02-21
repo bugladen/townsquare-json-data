@@ -6,10 +6,10 @@
     "available": "2015-11-16",
     "known": 23,
     "total": 23,
-    "url": "https://dtdb.co/en/set/DDeeds",
+    "url": "/en/set/DDeeds",
     "cards": [
         {
-            "last-modified": "2017-03-25T11:35:35+01:00",
+            "last-modified": "2017-03-25T11:35:35+00:00",
             "code": "11001",
             "title": "108 Worldly Desires",
             "type": "Outfit",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": 19,
             "octgnid": "fb84426c-6b63-4dee-a2df-2d3c7b89c230",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/11001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11001.jpg"
+            "url": "/en/card/11001",
+            "imagesrc": "/images/cards/en/11001.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:44:37+01:00",
+            "last-modified": "2015-11-14T18:44:37+00:00",
             "code": "11002",
             "title": "Beyond the Veil",
             "type": "Outfit",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": 19,
             "octgnid": "d47cff43-d675-4410-929c-508475fd7814",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/11002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11002.jpg"
+            "url": "/en/card/11002",
+            "imagesrc": "/images/cards/en/11002.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:45:55+01:00",
+            "last-modified": "2015-11-14T18:45:55+00:00",
             "code": "11003",
             "title": "Morgan Stables",
             "type": "Outfit",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": 18,
             "octgnid": "668fb674-5e1f-4bc9-98ae-ca7120277ea9",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/11003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11003.jpg"
+            "url": "/en/card/11003",
+            "imagesrc": "/images/cards/en/11003.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:48:30+01:00",
+            "last-modified": "2015-11-14T18:48:30+00:00",
             "code": "11004",
             "title": "Xiang Fang",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "5c204eb2-3416-4f3e-8822-ac93c5f66978",
+            "isMultiple": false,
             "value": "Spades2",
-            "url": "https://dtdb.co/en/card/11004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11004.jpg"
+            "url": "/en/card/11004",
+            "imagesrc": "/images/cards/en/11004.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:50:17+01:00",
+            "last-modified": "2015-11-14T18:50:17+00:00",
             "code": "11005",
             "title": "He Fang",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "555ee88e-b7a2-41b9-a781-357a9fc53f65",
+            "isMultiple": true,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/11005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11005.jpg"
+            "url": "/en/card/11005",
+            "imagesrc": "/images/cards/en/11005.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:52:53+01:00",
+            "last-modified": "2015-11-14T18:52:53+00:00",
             "code": "11006",
             "title": "Kabeda Hakurei",
             "type": "Dude",
@@ -202,19 +207,20 @@
             "control": null,
             "wealth": null,
             "octgnid": "934a695a-50c9-4fcc-8434-cb87d6c5e967",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/11006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11006.jpg"
+            "url": "/en/card/11006",
+            "imagesrc": "/images/cards/en/11006.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:55:07+01:00",
+            "last-modified": "2015-11-14T18:55:07+00:00",
             "code": "11007",
             "title": "Zachary Deloria",
             "type": "Dude",
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "",
-            "text": "If you are a <img src=\"/web/bundles/dtdbbuilder/images/eaglewardens-20.png\" title=\"Eagle Wardens\"> player, Zachary has a bullet bonus equal to the highest influence among your dudes at his location <i>(including himself)</i>.",
+            "text": "If you are a <img src=\"/images/eaglewardens-20.png\" title=\"Eagle Wardens\"> player, Zachary has a bullet bonus equal to the highest influence among your dudes at his location <i>(including himself)</i>.",
             "cost": 4,
             "gang": "First Peoples",
             "gang_code": "1stpeoples",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4c2da757-17a9-43ed-b7cd-c26efcbc0ff7",
+            "isMultiple": true,
             "value": "Spades9",
-            "url": "https://dtdb.co/en/card/11007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11007.jpg"
+            "url": "/en/card/11007",
+            "imagesrc": "/images/cards/en/11007.jpg"
         },
         {
-            "last-modified": "2015-11-14T18:59:31+01:00",
+            "last-modified": "2015-11-14T18:59:31+00:00",
             "code": "11008",
             "title": "Karl Odett",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1ee1c912-a6d1-4c74-8fb7-a3430a2cd1c8",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/11008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11008.jpg"
+            "url": "/en/card/11008",
+            "imagesrc": "/images/cards/en/11008.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:02:22+01:00",
+            "last-modified": "2015-11-14T19:02:22+00:00",
             "code": "11009",
             "title": "Erik Samson",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "8cc64eef-41b5-4e60-a68a-e35384d41a7a",
+            "isMultiple": true,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/11009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11009.jpg"
+            "url": "/en/card/11009",
+            "imagesrc": "/images/cards/en/11009.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:04:30+01:00",
+            "last-modified": "2015-11-14T19:04:30+00:00",
             "code": "11010",
             "title": "Dr. Brian Foxworth",
             "type": "Dude",
@@ -334,12 +343,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "08c8a178-3613-4b03-a885-5fc205e7e68e",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/11010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11010.jpg"
+            "url": "/en/card/11010",
+            "imagesrc": "/images/cards/en/11010.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:05:56+01:00",
+            "last-modified": "2015-11-14T19:05:56+00:00",
             "code": "11011",
             "title": "Buford Hurley",
             "type": "Dude",
@@ -367,12 +377,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "654372b0-0c12-4d64-9f78-128adf6d6457",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/11011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11011.jpg"
+            "url": "/en/card/11011",
+            "imagesrc": "/images/cards/en/11011.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:07:25+01:00",
+            "last-modified": "2015-11-14T19:07:25+00:00",
             "code": "11012",
             "title": "Doris Powell",
             "type": "Dude",
@@ -400,12 +411,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "0f21f34d-76ba-4a54-b690-fafa160ef170",
+            "isMultiple": true,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/11012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11012.jpg"
+            "url": "/en/card/11012",
+            "imagesrc": "/images/cards/en/11012.jpg"
         },
         {
-            "last-modified": "2017-03-25T11:43:08+01:00",
+            "last-modified": "2017-03-25T11:43:08+00:00",
             "code": "11013",
             "title": "Rico Rodegain",
             "type": "Dude",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "d760b8cd-7d30-4e1b-a4e6-9b7163eedf85",
+            "isMultiple": true,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/11013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11013.jpg"
+            "url": "/en/card/11013",
+            "imagesrc": "/images/cards/en/11013.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:14:31+01:00",
+            "last-modified": "2015-11-14T19:14:31+00:00",
             "code": "11014",
             "title": "Maza Gang Hideout",
             "type": "Deed",
@@ -466,12 +479,13 @@
             "control": 0,
             "wealth": null,
             "octgnid": "381aa2d3-aa99-49a9-8d53-6b09f8f4bceb",
+            "isMultiple": false,
             "value": "Diams7",
-            "url": "https://dtdb.co/en/card/11014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11014.jpg"
+            "url": "/en/card/11014",
+            "imagesrc": "/images/cards/en/11014.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:15:49+01:00",
+            "last-modified": "2015-11-14T19:15:49+00:00",
             "code": "11015",
             "title": "Miasmatic Purifier",
             "type": "Deed",
@@ -499,12 +513,13 @@
             "control": 2,
             "wealth": null,
             "octgnid": "9c101ef5-5214-4d20-8e45-906f8fcc23b3",
+            "isMultiple": false,
             "value": "Diams11",
-            "url": "https://dtdb.co/en/card/11015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11015.jpg"
+            "url": "/en/card/11015",
+            "imagesrc": "/images/cards/en/11015.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:24:37+01:00",
+            "last-modified": "2015-11-14T19:24:37+00:00",
             "code": "11016",
             "title": "Disgenuine Currency Press",
             "type": "Goods",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4bef1feb-f6b5-44ff-8af4-790d121d12e7",
+            "isMultiple": false,
             "value": "Hearts4",
-            "url": "https://dtdb.co/en/card/11016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11016.jpg"
+            "url": "/en/card/11016",
+            "imagesrc": "/images/cards/en/11016.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:56:04+01:00",
+            "last-modified": "2017-12-13T13:56:04+00:00",
             "code": "11017",
             "title": "Tlaloc's Furies",
             "type": "Goods",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "774ebaf2-a983-414b-acc3-7250bd61b9f2",
+            "isMultiple": false,
             "value": "Hearts8",
-            "url": "https://dtdb.co/en/card/11017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11017.jpg"
+            "url": "/en/card/11017",
+            "imagesrc": "/images/cards/en/11017.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:51:48+01:00",
+            "last-modified": "2015-11-14T19:51:48+00:00",
             "code": "11018",
             "title": "Jael's Guile",
             "type": "Goods",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "7eb84c0d-be8e-40b5-891c-b1b4c95b55af",
+            "isMultiple": true,
             "value": "Hearts10",
-            "url": "https://dtdb.co/en/card/11018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11018.jpg"
+            "url": "/en/card/11018",
+            "imagesrc": "/images/cards/en/11018.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:53:16+01:00",
+            "last-modified": "2015-11-14T19:53:16+00:00",
             "code": "11019",
             "title": "Personal Ornithopter",
             "type": "Goods",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "e258726e-3705-4d0f-ae7a-d37ce2952b82",
+            "isMultiple": true,
             "value": "Hearts10",
-            "url": "https://dtdb.co/en/card/11019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11019.jpg"
+            "url": "/en/card/11019",
+            "imagesrc": "/images/cards/en/11019.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:54:59+01:00",
+            "last-modified": "2015-11-14T19:54:59+00:00",
             "code": "11020",
             "title": "Hustled",
             "type": "Action",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "0967a396-2be7-4a61-afe9-a119034266fc",
+            "isMultiple": false,
             "value": "Clubs1",
-            "url": "https://dtdb.co/en/card/11020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11020.jpg"
+            "url": "/en/card/11020",
+            "imagesrc": "/images/cards/en/11020.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:58:58+01:00",
+            "last-modified": "2015-11-14T19:58:58+00:00",
             "code": "11021",
             "title": "An Accidental Reunion",
             "type": "Action",
@@ -697,12 +717,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "79ec0f19-cc3a-4f63-930e-f3dadf2645f7",
+            "isMultiple": false,
             "value": "Clubs5",
-            "url": "https://dtdb.co/en/card/11021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11021.jpg"
+            "url": "/en/card/11021",
+            "imagesrc": "/images/cards/en/11021.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:59:06+01:00",
+            "last-modified": "2015-11-14T19:59:06+00:00",
             "code": "11022",
             "title": "A Slight Modification",
             "type": "Action",
@@ -730,12 +751,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2c8fd25e-ff8b-4129-8a6c-2c6f3590c455",
+            "isMultiple": true,
             "value": "Clubs8",
-            "url": "https://dtdb.co/en/card/11022",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11022.jpg"
+            "url": "/en/card/11022",
+            "imagesrc": "/images/cards/en/11022.jpg"
         },
         {
-            "last-modified": "2015-11-14T19:58:22+01:00",
+            "last-modified": "2015-11-14T19:58:22+00:00",
             "code": "11023",
             "title": "Rabbit Takes Revenge",
             "type": "Action",
@@ -763,9 +785,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "2f4ad55c-0be5-422e-bb47-ccb1a6fe21e0",
+            "isMultiple": false,
             "value": "Clubs10",
-            "url": "https://dtdb.co/en/card/11023",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/11023.jpg"
+            "url": "/en/card/11023",
+            "imagesrc": "/images/cards/en/11023.jpg"
         }
     ]
 }

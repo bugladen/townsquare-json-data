@@ -6,10 +6,10 @@
     "available": "2016-10-10",
     "known": 42,
     "total": 42,
-    "url": "https://dtdb.co/en/set/BMR",
+    "url": "/en/set/BMR",
     "cards": [
         {
-            "last-modified": "2016-10-13T19:02:15+02:00",
+            "last-modified": "2016-10-13T19:02:15+00:00",
             "code": "18001",
             "title": "108 Drunken Masters",
             "type": "Outfit",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": 19,
             "octgnid": "72f2f4f7-2e0e-4994-aaa2-c6228fc3d8d9",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/18001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18001.jpg"
+            "url": "/en/card/18001",
+            "imagesrc": "/images/cards/en/18001.jpg"
         },
         {
-            "last-modified": "2017-11-24T23:34:16+01:00",
+            "last-modified": "2017-11-24T23:34:16+00:00",
             "code": "18002",
             "title": "Gateway To Beyond",
             "type": "Outfit",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": 18,
             "octgnid": "fd347528-2ce1-4cc5-9efb-a1052ee8603b",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/18002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18002.jpg"
+            "url": "/en/card/18002",
+            "imagesrc": "/images/cards/en/18002.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:04:43+02:00",
+            "last-modified": "2016-10-13T19:04:43+00:00",
             "code": "18003",
             "title": "Full Moon Brotherhood",
             "type": "Outfit",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": 19,
             "octgnid": "a9ec06b7-2fe5-4334-82f1-43e460b07967",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/18003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18003.jpg"
+            "url": "/en/card/18003",
+            "imagesrc": "/images/cards/en/18003.jpg"
         },
         {
-            "last-modified": "2017-11-24T23:35:40+01:00",
+            "last-modified": "2017-11-24T23:35:40+00:00",
             "code": "18004",
             "title": "Justice In Exile",
             "type": "Outfit",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": 18,
             "octgnid": "e0943fa8-0024-451f-862f-644ee23011eb",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/18004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18004.jpg"
+            "url": "/en/card/18004",
+            "imagesrc": "/images/cards/en/18004.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:06:55+02:00",
+            "last-modified": "2016-10-13T19:06:55+00:00",
             "code": "18005",
             "title": "Morgan Regulators",
             "type": "Outfit",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": 19,
             "octgnid": "b94ed693-16ed-4c7c-84d8-375498922a74",
+            "isMultiple": true,
             "value": "",
-            "url": "https://dtdb.co/en/card/18005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18005.jpg"
+            "url": "/en/card/18005",
+            "imagesrc": "/images/cards/en/18005.jpg"
         },
         {
-            "last-modified": "2017-11-24T23:36:04+01:00",
+            "last-modified": "2017-11-24T23:36:04+00:00",
             "code": "18006",
             "title": "Protection Racket",
             "type": "Outfit",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": 18,
             "octgnid": "e415100e-91bb-4d9e-87aa-ec2f23d63f84",
+            "isMultiple": false,
             "value": "",
-            "url": "https://dtdb.co/en/card/18006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18006.jpg"
+            "url": "/en/card/18006",
+            "imagesrc": "/images/cards/en/18006.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:28:28+01:00",
+            "last-modified": "2017-12-13T13:28:28+00:00",
             "code": "18007",
             "title": "Zuì Waidan",
             "type": "Dude",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "407fccf5-1007-4be6-a1f5-8a06bc2c0674",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/18007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18007.jpg"
+            "url": "/en/card/18007",
+            "imagesrc": "/images/cards/en/18007.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:13:04+02:00",
+            "last-modified": "2016-10-13T19:13:04+00:00",
             "code": "18008",
             "title": "Mr. Outang",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ef12ef9a-b1c8-433f-a4ac-eac38f5ffaf1",
+            "isMultiple": true,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/18008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18008.jpg"
+            "url": "/en/card/18008",
+            "imagesrc": "/images/cards/en/18008.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:14:38+02:00",
+            "last-modified": "2016-10-13T19:14:38+00:00",
             "code": "18009",
             "title": "Stevie Lyndon",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "52674538-37bf-4dc3-bba9-164f11abb7c4",
+            "isMultiple": true,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/18009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18009.jpg"
+            "url": "/en/card/18009",
+            "imagesrc": "/images/cards/en/18009.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:16:32+02:00",
+            "last-modified": "2016-10-13T19:16:32+00:00",
             "code": "18010",
             "title": "Wei Xu",
             "type": "Dude",
@@ -334,12 +343,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "043e1e23-de64-403f-a5ae-6df84823538f",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/18010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18010.jpg"
+            "url": "/en/card/18010",
+            "imagesrc": "/images/cards/en/18010.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:29:20+01:00",
+            "last-modified": "2017-12-13T13:29:20+00:00",
             "code": "18011",
             "title": "Eva Bright Eyes",
             "type": "Dude",
@@ -367,12 +377,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4e453b4b-da87-4042-8ebf-92ff9a25c25c",
+            "isMultiple": false,
             "value": "Spades2",
-            "url": "https://dtdb.co/en/card/18011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18011.jpg"
+            "url": "/en/card/18011",
+            "imagesrc": "/images/cards/en/18011.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:19:26+02:00",
+            "last-modified": "2016-10-13T19:19:26+00:00",
             "code": "18012",
             "title": "Mick Aduladi",
             "type": "Dude",
@@ -400,12 +411,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1c769e8e-e7d5-49e5-94c7-7f83dc3b1cc7",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/18012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18012.jpg"
+            "url": "/en/card/18012",
+            "imagesrc": "/images/cards/en/18012.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:30:35+01:00",
+            "last-modified": "2017-12-13T13:30:35+00:00",
             "code": "18013",
             "title": "Absalom Hotchkiss",
             "type": "Dude",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2431b33e-b34c-4b53-9915-fa18ca6777e7",
+            "isMultiple": false,
             "value": "Spades4",
-            "url": "https://dtdb.co/en/card/18013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18013.jpg"
+            "url": "/en/card/18013",
+            "imagesrc": "/images/cards/en/18013.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:22:30+02:00",
+            "last-modified": "2016-10-13T19:22:30+00:00",
             "code": "18014",
             "title": "Christine Perfect",
             "type": "Dude",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "75969ce9-d9e6-4cc1-b4e5-5ff29c3e8d69",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/18014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18014.jpg"
+            "url": "/en/card/18014",
+            "imagesrc": "/images/cards/en/18014.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:24:08+02:00",
+            "last-modified": "2016-10-13T19:24:08+00:00",
             "code": "18015",
             "title": "Father Tolarios",
             "type": "Dude",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "c213a4b2-95ee-487c-b0a8-8cc09ac87a7d",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/18015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18015.jpg"
+            "url": "/en/card/18015",
+            "imagesrc": "/images/cards/en/18015.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:25:43+02:00",
+            "last-modified": "2016-10-13T19:25:43+00:00",
             "code": "18016",
             "title": "Hattie DeLorre",
             "type": "Dude",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "77e140fc-3d2d-4715-bc47-af208e671b3e",
+            "isMultiple": true,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/18016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18016.jpg"
+            "url": "/en/card/18016",
+            "imagesrc": "/images/cards/en/18016.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:29:53+01:00",
+            "last-modified": "2017-12-13T13:29:53+00:00",
             "code": "18017",
             "title": "Diego Linares",
             "type": "Dude",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "82aaf3b6-9eb1-4fd2-9812-b6b727cf51b2",
+            "isMultiple": true,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/18017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18017.jpg"
+            "url": "/en/card/18017",
+            "imagesrc": "/images/cards/en/18017.jpg"
         },
         {
-            "last-modified": "2018-01-05T18:12:23+01:00",
+            "last-modified": "2018-01-05T18:12:23+00:00",
             "code": "18018",
             "title": "POST-A-TRON",
             "type": "Dude",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "03c922cf-e0ef-4d47-bbb7-7c62428f90fb",
+            "isMultiple": true,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/18018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18018.jpg"
+            "url": "/en/card/18018",
+            "imagesrc": "/images/cards/en/18018.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:31:27+02:00",
+            "last-modified": "2016-10-13T19:31:27+00:00",
             "code": "18019",
             "title": "Jimmy \"The Saint\"",
             "type": "Dude",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "163fc3b6-eea4-44ab-9edc-f03647046c3a",
+            "isMultiple": false,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/18019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18019.jpg"
+            "url": "/en/card/18019",
+            "imagesrc": "/images/cards/en/18019.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:37:19+01:00",
+            "last-modified": "2017-12-13T13:37:19+00:00",
             "code": "18020",
             "title": "Mario Crane (Exp.1)",
             "type": "Dude",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2a6bafed-d2ea-4275-877a-f0f15aae4c85",
+            "isMultiple": false,
             "value": "Spades13",
-            "url": "https://dtdb.co/en/card/18020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18020.jpg"
+            "url": "/en/card/18020",
+            "imagesrc": "/images/cards/en/18020.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:32:22+01:00",
+            "last-modified": "2017-12-13T13:32:22+00:00",
             "code": "18021",
             "title": "The Caretaker",
             "type": "Dude",
@@ -697,12 +717,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "543b1dab-41f2-4d79-80f5-a00fa3a0b6e8",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/18021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18021.jpg"
+            "url": "/en/card/18021",
+            "imagesrc": "/images/cards/en/18021.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:36:10+02:00",
+            "last-modified": "2016-10-13T19:36:10+00:00",
             "code": "18022",
             "title": "Nickel Night Inn",
             "type": "Deed",
@@ -730,12 +751,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "581c842b-d83b-4fcf-b525-7acad7f4a866",
+            "isMultiple": true,
             "value": "Diams6",
-            "url": "https://dtdb.co/en/card/18022",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18022.jpg"
+            "url": "/en/card/18022",
+            "imagesrc": "/images/cards/en/18022.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:33:11+01:00",
+            "last-modified": "2017-12-13T13:33:11+00:00",
             "code": "18023",
             "title": "Sherman Mortgage",
             "type": "Deed",
@@ -763,12 +785,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "15b1a170-e713-40d5-ab39-6ed2f8cd97d6",
+            "isMultiple": true,
             "value": "Diams7",
-            "url": "https://dtdb.co/en/card/18023",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18023.jpg"
+            "url": "/en/card/18023",
+            "imagesrc": "/images/cards/en/18023.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:40:00+02:00",
+            "last-modified": "2016-10-13T19:40:00+00:00",
             "code": "18024",
             "title": "Gomorra Gaming Commission",
             "type": "Deed",
@@ -796,12 +819,13 @@
             "control": 0,
             "wealth": null,
             "octgnid": "27194abd-3f50-4088-98f2-5dd70dfddd62",
+            "isMultiple": false,
             "value": "Diams9",
-            "url": "https://dtdb.co/en/card/18024",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18024.jpg"
+            "url": "/en/card/18024",
+            "imagesrc": "/images/cards/en/18024.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:41:36+02:00",
+            "last-modified": "2016-10-13T19:41:36+00:00",
             "code": "18025",
             "title": "Cliff's #4 Saloon",
             "type": "Deed",
@@ -829,12 +853,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "76f4b9dd-7c1e-4ffd-a2ea-e7e2d0f253eb",
+            "isMultiple": true,
             "value": "Diams12",
-            "url": "https://dtdb.co/en/card/18025",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18025.jpg"
+            "url": "/en/card/18025",
+            "imagesrc": "/images/cards/en/18025.jpg"
         },
         {
-            "last-modified": "2018-01-05T18:13:10+01:00",
+            "last-modified": "2018-01-05T18:13:10+00:00",
             "code": "18026",
             "title": "Baijiu Jar",
             "type": "Goods",
@@ -862,12 +887,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "d88d3c39-4f35-40e9-b37b-046f6c9409de",
+            "isMultiple": true,
             "value": "Hearts1",
-            "url": "https://dtdb.co/en/card/18026",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18026.jpg"
+            "url": "/en/card/18026",
+            "imagesrc": "/images/cards/en/18026.jpg"
         },
         {
-            "last-modified": "2018-01-05T18:17:19+01:00",
+            "last-modified": "2018-01-05T18:17:19+00:00",
             "code": "18027",
             "title": "Bowie Knife",
             "type": "Goods",
@@ -895,12 +921,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "cb7e441a-1d78-4967-92ec-ab2d3a0f70fe",
+            "isMultiple": true,
             "value": "Hearts3",
-            "url": "https://dtdb.co/en/card/18027",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18027.jpg"
+            "url": "/en/card/18027",
+            "imagesrc": "/images/cards/en/18027.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:47:29+02:00",
+            "last-modified": "2016-10-13T19:47:29+00:00",
             "code": "18028",
             "title": "Hydro-Puncher",
             "type": "Goods",
@@ -928,12 +955,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "86f8e98c-66a6-4a54-b0c0-48e7428dc891",
+            "isMultiple": true,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/18028",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18028.jpg"
+            "url": "/en/card/18028",
+            "imagesrc": "/images/cards/en/18028.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:49:32+02:00",
+            "last-modified": "2016-10-13T19:49:32+00:00",
             "code": "18029",
             "title": "Rancher's Lariat",
             "type": "Goods",
@@ -961,12 +989,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "08507600-22ab-4903-861e-1c3941a54e23",
+            "isMultiple": false,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/18029",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18029.jpg"
+            "url": "/en/card/18029",
+            "imagesrc": "/images/cards/en/18029.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:51:00+02:00",
+            "last-modified": "2016-10-13T19:51:00+00:00",
             "code": "18030",
             "title": "De Annulos Mysteriis",
             "type": "Goods",
@@ -994,12 +1023,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "765bff12-2d2b-44a0-a5ad-80920e291833",
+            "isMultiple": false,
             "value": "Hearts9",
-            "url": "https://dtdb.co/en/card/18030",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18030.jpg"
+            "url": "/en/card/18030",
+            "imagesrc": "/images/cards/en/18030.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:52:09+02:00",
+            "last-modified": "2016-10-13T19:52:09+00:00",
             "code": "18031",
             "title": "Heartseeker",
             "type": "Spell",
@@ -1027,12 +1057,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "a12b3e09-b8af-4620-8479-20b5065df197",
+            "isMultiple": false,
             "value": "Hearts3",
-            "url": "https://dtdb.co/en/card/18031",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18031.jpg"
+            "url": "/en/card/18031",
+            "imagesrc": "/images/cards/en/18031.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:53:03+02:00",
+            "last-modified": "2016-10-13T19:53:03+00:00",
             "code": "18032",
             "title": "Tse-Che-Nako's Weaving",
             "type": "Spell",
@@ -1060,12 +1091,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "540d789b-98d5-47ac-8778-7a834851b10b",
+            "isMultiple": false,
             "value": "Hearts6",
-            "url": "https://dtdb.co/en/card/18032",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18032.jpg"
+            "url": "/en/card/18032",
+            "imagesrc": "/images/cards/en/18032.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:41:15+01:00",
+            "last-modified": "2017-12-13T13:41:15+00:00",
             "code": "18033",
             "title": "Amazing Grace",
             "type": "Spell",
@@ -1093,12 +1125,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1cd6c83a-2c5d-4f23-92d3-f9dd371413f0",
+            "isMultiple": false,
             "value": "Hearts12",
-            "url": "https://dtdb.co/en/card/18033",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18033.jpg"
+            "url": "/en/card/18033",
+            "imagesrc": "/images/cards/en/18033.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:42:00+01:00",
+            "last-modified": "2017-12-13T13:42:00+00:00",
             "code": "18034",
             "title": "Burn 'Em Out",
             "type": "Action",
@@ -1126,12 +1159,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "973b1148-56aa-421b-ba9a-5c6273710b6c",
+            "isMultiple": false,
             "value": "Clubs3",
-            "url": "https://dtdb.co/en/card/18034",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18034.jpg"
+            "url": "/en/card/18034",
+            "imagesrc": "/images/cards/en/18034.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:56:26+02:00",
+            "last-modified": "2016-10-13T19:56:26+00:00",
             "code": "18035",
             "title": "Shiny Things",
             "type": "Action",
@@ -1159,12 +1193,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "3448fa9e-1adc-4094-80a9-7c2ed35db597",
+            "isMultiple": false,
             "value": "Clubs4",
-            "url": "https://dtdb.co/en/card/18035",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18035.jpg"
+            "url": "/en/card/18035",
+            "imagesrc": "/images/cards/en/18035.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:40:24+01:00",
+            "last-modified": "2017-12-13T13:40:24+00:00",
             "code": "18036",
             "title": "We Got A Beef!",
             "type": "Action",
@@ -1192,12 +1227,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "e4118ee1-a9eb-4738-a378-673ca6c918a7",
+            "isMultiple": false,
             "value": "Clubs4",
-            "url": "https://dtdb.co/en/card/18036",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18036.jpg"
+            "url": "/en/card/18036",
+            "imagesrc": "/images/cards/en/18036.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:58:13+02:00",
+            "last-modified": "2016-10-13T19:58:13+00:00",
             "code": "18037",
             "title": "Great Sage Matching Heaven",
             "type": "Action",
@@ -1225,12 +1261,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "39fa07ab-40d4-4ddd-b2a6-6c444a1f48cd",
+            "isMultiple": true,
             "value": "Clubs6",
-            "url": "https://dtdb.co/en/card/18037",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18037.jpg"
+            "url": "/en/card/18037",
+            "imagesrc": "/images/cards/en/18037.jpg"
         },
         {
-            "last-modified": "2016-10-13T19:59:09+02:00",
+            "last-modified": "2016-10-13T19:59:09+00:00",
             "code": "18038",
             "title": "Two Hundred Fifty Rounds",
             "type": "Action",
@@ -1258,12 +1295,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ea3990fa-ae15-4314-b8f7-d4d8aaf11788",
+            "isMultiple": true,
             "value": "Clubs7",
-            "url": "https://dtdb.co/en/card/18038",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18038.jpg"
+            "url": "/en/card/18038",
+            "imagesrc": "/images/cards/en/18038.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:43:04+01:00",
+            "last-modified": "2017-12-13T13:43:04+00:00",
             "code": "18039",
             "title": "Moving Forward",
             "type": "Action",
@@ -1291,12 +1329,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "eaf25cb8-16fb-4f52-ba4b-ce8a88295d2f",
+            "isMultiple": false,
             "value": "Clubs10",
-            "url": "https://dtdb.co/en/card/18039",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18039.jpg"
+            "url": "/en/card/18039",
+            "imagesrc": "/images/cards/en/18039.jpg"
         },
         {
-            "last-modified": "2016-10-13T20:00:32+02:00",
+            "last-modified": "2016-10-13T20:00:32+00:00",
             "code": "18040",
             "title": "The Law Goes Underground",
             "type": "Action",
@@ -1324,12 +1363,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "a149d4e1-b28c-4f5a-8202-9c12d7be2876",
+            "isMultiple": false,
             "value": "Clubs11",
-            "url": "https://dtdb.co/en/card/18040",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18040.jpg"
+            "url": "/en/card/18040",
+            "imagesrc": "/images/cards/en/18040.jpg"
         },
         {
-            "last-modified": "2016-10-24T18:56:58+02:00",
+            "last-modified": "2016-10-24T18:56:58+00:00",
             "code": "18041",
             "title": "\"Thunder Boy\" Nabbe",
             "type": "Dude",
@@ -1357,12 +1397,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1c4fd81f-8b08-4e7f-9325-8c63104f2694",
+            "isMultiple": true,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/18041",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18041.jpg"
+            "url": "/en/card/18041",
+            "imagesrc": "/images/cards/en/18041.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:55:38+01:00",
+            "last-modified": "2017-12-13T13:55:38+00:00",
             "code": "18042",
             "title": "Dave \"Slim\" Gorman",
             "type": "Dude",
@@ -1390,9 +1431,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "698ae5b9-1b37-45be-bbd2-118c03d64a30",
+            "isMultiple": true,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/18042",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/18042.jpg"
+            "url": "/en/card/18042",
+            "imagesrc": "/images/cards/en/18042.jpg"
         }
     ]
 }

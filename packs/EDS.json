@@ -6,10 +6,10 @@
     "available": "2015-02-16",
     "known": 21,
     "total": 21,
-    "url": "https://dtdb.co/en/set/EDS",
+    "url": "/en/set/EDS",
     "cards": [
         {
-            "last-modified": "2015-02-09T11:01:58+01:00",
+            "last-modified": "2015-02-09T11:01:58+00:00",
             "code": "04001",
             "title": "The Brute",
             "type": "Dude",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "13cdc52f-986e-4f3b-b053-c3261267790d",
+            "isMultiple": true,
             "value": "Spades4",
-            "url": "https://dtdb.co/en/card/04001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04001.jpg"
+            "url": "/en/card/04001",
+            "imagesrc": "/images/cards/en/04001.jpg"
         },
         {
-            "last-modified": "2015-02-09T11:01:58+01:00",
+            "last-modified": "2015-02-09T11:01:58+00:00",
             "code": "04002",
             "title": "Smiling Tom",
             "type": "Dude",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "d90e5abe-ed12-4dad-9007-16aa47afa2cc",
+            "isMultiple": true,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/04002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04002.jpg"
+            "url": "/en/card/04002",
+            "imagesrc": "/images/cards/en/04002.jpg"
         },
         {
-            "last-modified": "2015-02-09T11:01:58+01:00",
+            "last-modified": "2015-02-09T11:01:58+00:00",
             "code": "04003",
             "title": "Philip Swinford (Exp.1)",
             "type": "Dude",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "f1012bb4-2429-4ec3-9b89-6ebcb3f94184",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/04003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04003.jpg"
+            "url": "/en/card/04003",
+            "imagesrc": "/images/cards/en/04003.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:38:46+02:00",
+            "last-modified": "2015-09-28T20:38:46+00:00",
             "code": "04004",
             "title": "Drew Beauman",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "19fc7ff8-d4da-492f-8a41-7a838490c9e4",
+            "isMultiple": true,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/04004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04004.jpg"
+            "url": "/en/card/04004",
+            "imagesrc": "/images/cards/en/04004.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:32:37+02:00",
+            "last-modified": "2015-09-28T20:32:37+00:00",
             "code": "04005",
             "title": "Dr. Arden Gillman",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "95b9d8df-a95d-4b5e-aeed-98f8e99ca5a5",
+            "isMultiple": false,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/04005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04005.jpg"
+            "url": "/en/card/04005",
+            "imagesrc": "/images/cards/en/04005.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:33:00+02:00",
+            "last-modified": "2015-09-28T20:33:00+00:00",
             "code": "04006",
             "title": "Arvid Mardh",
             "type": "Dude",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "33b97a88-5b7f-4073-8e30-5c66da9060c5",
+            "isMultiple": false,
             "value": "Spades9",
-            "url": "https://dtdb.co/en/card/04006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04006.jpg"
+            "url": "/en/card/04006",
+            "imagesrc": "/images/cards/en/04006.jpg"
         },
         {
-            "last-modified": "2015-10-03T12:05:47+02:00",
+            "last-modified": "2015-10-03T12:05:47+00:00",
             "code": "04007",
             "title": "Allie Hensman (Exp.1)",
             "type": "Dude",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "28c37361-c5ac-4561-b1bc-5f41113e0625",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/04007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04007.jpg"
+            "url": "/en/card/04007",
+            "imagesrc": "/images/cards/en/04007.jpg"
         },
         {
-            "last-modified": "2015-02-09T11:01:58+01:00",
+            "last-modified": "2015-02-09T11:01:58+00:00",
             "code": "04008",
             "title": "Milt Clemons",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "cd99ead2-3b50-4989-8331-59f76b5edb0b",
+            "isMultiple": true,
             "value": "Spades8",
-            "url": "https://dtdb.co/en/card/04008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04008.jpg"
+            "url": "/en/card/04008",
+            "imagesrc": "/images/cards/en/04008.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:24:12+01:00",
+            "last-modified": "2017-12-13T13:24:12+00:00",
             "code": "04009",
             "title": "Jake Smiley",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "36c80330-39fc-4fdc-8736-4c8d47758063",
+            "isMultiple": true,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/04009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04009.jpg"
+            "url": "/en/card/04009",
+            "imagesrc": "/images/cards/en/04009.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:42:06+02:00",
+            "last-modified": "2015-09-28T20:42:06+00:00",
             "code": "04010",
             "title": "QUATERMAN",
             "type": "Dude",
@@ -334,12 +343,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "144991c0-f3f4-4914-a075-ab2093991411",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/04010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04010.jpg"
+            "url": "/en/card/04010",
+            "imagesrc": "/images/cards/en/04010.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:33:41+02:00",
+            "last-modified": "2015-09-28T20:33:41+00:00",
             "code": "04011",
             "title": "Angela Payne",
             "type": "Dude",
@@ -367,12 +377,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "6b01cb98-4ae3-4b6e-b7d1-29fe035c9e2d",
+            "isMultiple": true,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/04011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04011.jpg"
+            "url": "/en/card/04011",
+            "imagesrc": "/images/cards/en/04011.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:34:02+02:00",
+            "last-modified": "2015-09-28T20:34:02+00:00",
             "code": "04012",
             "title": "The Mayor's Office",
             "type": "Deed",
@@ -400,12 +411,13 @@
             "control": 2,
             "wealth": null,
             "octgnid": "90568a28-333b-4836-b55c-8ebbef266ad1",
+            "isMultiple": true,
             "value": "Diams1",
-            "url": "https://dtdb.co/en/card/04012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04012.jpg"
+            "url": "/en/card/04012",
+            "imagesrc": "/images/cards/en/04012.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:34:21+02:00",
+            "last-modified": "2015-09-28T20:34:21+00:00",
             "code": "04013",
             "title": "Hunter Protections",
             "type": "Deed",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1f6dc79e-65ad-4727-bf8e-1c42eee98fe1",
+            "isMultiple": true,
             "value": "Diams7",
-            "url": "https://dtdb.co/en/card/04013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04013.jpg"
+            "url": "/en/card/04013",
+            "imagesrc": "/images/cards/en/04013.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:34:52+02:00",
+            "last-modified": "2015-09-28T20:34:52+00:00",
             "code": "04014",
             "title": "The Evidence",
             "type": "Goods",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "9687ab08-0ae9-4a15-8304-6e9797edc87e",
+            "isMultiple": false,
             "value": "Hearts8",
-            "url": "https://dtdb.co/en/card/04014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04014.jpg"
+            "url": "/en/card/04014",
+            "imagesrc": "/images/cards/en/04014.jpg"
         },
         {
-            "last-modified": "2017-12-13T13:27:19+01:00",
+            "last-modified": "2017-12-13T13:27:19+00:00",
             "code": "04015",
             "title": "Teleportation Device",
             "type": "Goods",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "28d66d3e-bc96-4c2c-9ebb-38dfabceb440",
+            "isMultiple": true,
             "value": "Hearts10",
-            "url": "https://dtdb.co/en/card/04015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04015.jpg"
+            "url": "/en/card/04015",
+            "imagesrc": "/images/cards/en/04015.jpg"
         },
         {
-            "last-modified": "2015-10-03T12:06:29+02:00",
+            "last-modified": "2015-10-03T12:06:29+00:00",
             "code": "04016",
             "title": "Mayfair Family Deck",
             "type": "Goods",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "68310bec-735a-46bc-be6c-949e26bc5758",
+            "isMultiple": false,
             "value": "Hearts13",
-            "url": "https://dtdb.co/en/card/04016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04016.jpg"
+            "url": "/en/card/04016",
+            "imagesrc": "/images/cards/en/04016.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:35:52+02:00",
+            "last-modified": "2015-09-28T20:35:52+00:00",
             "code": "04017",
             "title": "Puppet",
             "type": "Spell",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "146c6a48-ffb5-4201-b07e-74e5560da771",
+            "isMultiple": false,
             "value": "Hearts4",
-            "url": "https://dtdb.co/en/card/04017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04017.jpg"
+            "url": "/en/card/04017",
+            "imagesrc": "/images/cards/en/04017.jpg"
         },
         {
-            "last-modified": "2015-10-03T12:06:56+02:00",
+            "last-modified": "2015-10-03T12:06:56+00:00",
             "code": "04018",
             "title": "Summoning",
             "type": "Spell",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "791de7a5-3292-43cd-b907-40f737dc8600",
+            "isMultiple": false,
             "value": "Hearts6",
-            "url": "https://dtdb.co/en/card/04018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04018.jpg"
+            "url": "/en/card/04018",
+            "imagesrc": "/images/cards/en/04018.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:36:37+02:00",
+            "last-modified": "2015-09-28T20:36:37+00:00",
             "code": "04019",
             "title": "Ridden Down",
             "type": "Action",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "cd378a50-f1c7-4a1f-a99d-80436806feea",
+            "isMultiple": true,
             "value": "Clubs8",
-            "url": "https://dtdb.co/en/card/04019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04019.jpg"
+            "url": "/en/card/04019",
+            "imagesrc": "/images/cards/en/04019.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:36:53+02:00",
+            "last-modified": "2015-09-28T20:36:53+00:00",
             "code": "04020",
             "title": "Tail Between Yer Legs",
             "type": "Action",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ff26cca7-830f-440a-90cd-08e32c629d7e",
+            "isMultiple": false,
             "value": "Clubs9",
-            "url": "https://dtdb.co/en/card/04020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04020.jpg"
+            "url": "/en/card/04020",
+            "imagesrc": "/images/cards/en/04020.jpg"
         },
         {
-            "last-modified": "2015-09-28T20:37:09+02:00",
+            "last-modified": "2015-09-28T20:37:09+00:00",
             "code": "04021",
             "title": "Election Day Slaughter",
             "type": "Action",
@@ -697,9 +717,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "25787651-53b5-456e-bb42-8f38fd7b3caf",
+            "isMultiple": true,
             "value": "Clubs13",
-            "url": "https://dtdb.co/en/card/04021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/04021.jpg"
+            "url": "/en/card/04021",
+            "imagesrc": "/images/cards/en/04021.jpg"
         }
     ]
 }

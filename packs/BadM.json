@@ -6,10 +6,10 @@
     "available": "2016-02-08",
     "known": 21,
     "total": 21,
-    "url": "https://dtdb.co/en/set/BadM",
+    "url": "/en/set/BadM",
     "cards": [
         {
-            "last-modified": "2016-05-12T20:27:06+02:00",
+            "last-modified": "2016-05-12T20:27:06+00:00",
             "code": "13001",
             "title": "Sophie Lacoste",
             "type": "Dude",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "e54fe16d-a197-4461-9309-42718820a294",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/13001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13001.jpg"
+            "url": "/en/card/13001",
+            "imagesrc": "/images/cards/en/13001.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:04:07+01:00",
+            "last-modified": "2016-02-02T20:04:07+00:00",
             "code": "13002",
             "title": "\"Crazy\" Mike Draksil",
             "type": "Dude",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "12bea32a-b544-47e8-b2c7-4355aa1606ac",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/13002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13002.jpg"
+            "url": "/en/card/13002",
+            "imagesrc": "/images/cards/en/13002.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:05:36+01:00",
+            "last-modified": "2016-02-02T20:05:36+00:00",
             "code": "13003",
             "title": "Horace Manse",
             "type": "Dude",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "5126c19e-76f4-4355-8dad-8023adab95e7",
+            "isMultiple": false,
             "value": "Spades8",
-            "url": "https://dtdb.co/en/card/13003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13003.jpg"
+            "url": "/en/card/13003",
+            "imagesrc": "/images/cards/en/13003.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:07:04+01:00",
+            "last-modified": "2016-02-02T20:07:04+00:00",
             "code": "13004",
             "title": "Jia Mein (Exp.1)",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1a69a29f-8d3e-4b90-a4b0-8050855974df",
+            "isMultiple": false,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/13004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13004.jpg"
+            "url": "/en/card/13004",
+            "imagesrc": "/images/cards/en/13004.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:08:22+01:00",
+            "last-modified": "2016-02-02T20:08:22+00:00",
             "code": "13005",
             "title": "Janosz Pratt",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "b791fa54-dbe2-4cda-90dd-91a0df866ed1",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/13005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13005.jpg"
+            "url": "/en/card/13005",
+            "imagesrc": "/images/cards/en/13005.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:09:57+01:00",
+            "last-modified": "2016-02-02T20:09:57+00:00",
             "code": "13006",
             "title": "Vasilis the Boar",
             "type": "Dude",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "20ff3990-e458-4fe7-a8c3-8f7839430e73",
+            "isMultiple": false,
             "value": "Spades8",
-            "url": "https://dtdb.co/en/card/13006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13006.jpg"
+            "url": "/en/card/13006",
+            "imagesrc": "/images/cards/en/13006.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:11:01+01:00",
+            "last-modified": "2016-02-02T20:11:01+00:00",
             "code": "13007",
             "title": "Luke, the Errand Boy",
             "type": "Dude",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "06798ab4-80bd-4497-b6fe-d2093c788ba8",
+            "isMultiple": false,
             "value": "Spades2",
-            "url": "https://dtdb.co/en/card/13007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13007.jpg"
+            "url": "/en/card/13007",
+            "imagesrc": "/images/cards/en/13007.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:43:20+01:00",
+            "last-modified": "2016-02-02T20:43:20+00:00",
             "code": "13008",
             "title": "Arnold Stewart",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "55c7c4fb-53ee-4fef-96f2-666ef2f1ec2d",
+            "isMultiple": true,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/13008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13008.jpg"
+            "url": "/en/card/13008",
+            "imagesrc": "/images/cards/en/13008.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:13:52+01:00",
+            "last-modified": "2016-02-02T20:13:52+00:00",
             "code": "13009",
             "title": "Rick Henderson",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "198921ba-aafd-4379-bf9d-205b4a4c7763",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/13009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13009.jpg"
+            "url": "/en/card/13009",
+            "imagesrc": "/images/cards/en/13009.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:15:50+01:00",
+            "last-modified": "2016-02-02T20:15:50+00:00",
             "code": "13010",
             "title": "Willa Mae MacGowan",
             "type": "Dude",
@@ -334,12 +343,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4be0dce0-1671-4ac1-9539-d721e8fa5b34",
+            "isMultiple": true,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/13010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13010.jpg"
+            "url": "/en/card/13010",
+            "imagesrc": "/images/cards/en/13010.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:16:54+01:00",
+            "last-modified": "2016-02-02T20:16:54+00:00",
             "code": "13011",
             "title": "The Orphanage",
             "type": "Deed",
@@ -367,12 +377,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "6d816729-b023-4801-8aee-426ebe657835",
+            "isMultiple": true,
             "value": "Diams3",
-            "url": "https://dtdb.co/en/card/13011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13011.jpg"
+            "url": "/en/card/13011",
+            "imagesrc": "/images/cards/en/13011.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:18:19+01:00",
+            "last-modified": "2016-02-02T20:18:19+00:00",
             "code": "13012",
             "title": "The Place",
             "type": "Deed",
@@ -400,12 +411,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "c9534712-af16-422c-8fb5-dac7b8c82c65",
+            "isMultiple": false,
             "value": "Diams6",
-            "url": "https://dtdb.co/en/card/13012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13012.jpg"
+            "url": "/en/card/13012",
+            "imagesrc": "/images/cards/en/13012.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:19:35+01:00",
+            "last-modified": "2016-02-02T20:19:35+00:00",
             "code": "13013",
             "title": "Hawley's Rose",
             "type": "Goods",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "f316fc32-d8a7-4810-bb75-7c1491058ad8",
+            "isMultiple": true,
             "value": "Hearts2",
-            "url": "https://dtdb.co/en/card/13013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13013.jpg"
+            "url": "/en/card/13013",
+            "imagesrc": "/images/cards/en/13013.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:43:08+01:00",
+            "last-modified": "2016-02-02T20:43:08+00:00",
             "code": "13014",
             "title": "LeMat Revolver",
             "type": "Goods",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "3347bf9b-ca97-4625-8409-521a4b90af3e",
+            "isMultiple": true,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/13014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13014.jpg"
+            "url": "/en/card/13014",
+            "imagesrc": "/images/cards/en/13014.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:21:56+01:00",
+            "last-modified": "2016-02-02T20:21:56+00:00",
             "code": "13015",
             "title": "Yagn's Mechanical Skeleton",
             "type": "Goods",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2fb05302-5326-458a-81bf-c5ad611e63e1",
+            "isMultiple": true,
             "value": "Hearts11",
-            "url": "https://dtdb.co/en/card/13015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13015.jpg"
+            "url": "/en/card/13015",
+            "imagesrc": "/images/cards/en/13015.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:43:00+01:00",
+            "last-modified": "2016-02-02T20:43:00+00:00",
             "code": "13016",
             "title": "Fool's Gold",
             "type": "Spell",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "8aad1d23-54ea-4439-8d94-e84b1c283d67",
+            "isMultiple": false,
             "value": "Hearts4",
-            "url": "https://dtdb.co/en/card/13016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13016.jpg"
+            "url": "/en/card/13016",
+            "imagesrc": "/images/cards/en/13016.jpg"
         },
         {
-            "last-modified": "2016-05-12T20:22:08+02:00",
+            "last-modified": "2016-05-12T20:22:08+00:00",
             "code": "13017",
             "title": "Mother Bear's Rage",
             "type": "Spell",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "5d7757ad-32cf-4383-959e-594e8a7314be",
+            "isMultiple": true,
             "value": "Hearts5",
-            "url": "https://dtdb.co/en/card/13017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13017.jpg"
+            "url": "/en/card/13017",
+            "imagesrc": "/images/cards/en/13017.jpg"
         },
         {
-            "last-modified": "2016-02-23T20:44:23+01:00",
+            "last-modified": "2016-02-23T20:44:23+00:00",
             "code": "13018",
             "title": "Focusing Chi",
             "type": "Action",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "614b4a5f-6a75-4a4d-af99-269ce0c53375",
+            "isMultiple": false,
             "value": "Clubs1",
-            "url": "https://dtdb.co/en/card/13018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13018.jpg"
+            "url": "/en/card/13018",
+            "imagesrc": "/images/cards/en/13018.jpg"
         },
         {
-            "last-modified": "2017-03-25T11:41:59+01:00",
+            "last-modified": "2017-03-25T11:41:59+00:00",
             "code": "13019",
             "title": "Mugging",
             "type": "Action",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1ba6917a-9efe-4e3e-a118-3270e1c36854",
+            "isMultiple": true,
             "value": "Clubs2",
-            "url": "https://dtdb.co/en/card/13019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13019.jpg"
+            "url": "/en/card/13019",
+            "imagesrc": "/images/cards/en/13019.jpg"
         },
         {
-            "last-modified": "2016-02-02T20:42:49+01:00",
+            "last-modified": "2016-02-02T20:42:49+00:00",
             "code": "13020",
             "title": "Signing Over the Stores",
             "type": "Action",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2d728020-2cf6-4908-8034-7325e9fcb394",
+            "isMultiple": false,
             "value": "Clubs9",
-            "url": "https://dtdb.co/en/card/13020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13020.jpg"
+            "url": "/en/card/13020",
+            "imagesrc": "/images/cards/en/13020.jpg"
         },
         {
-            "last-modified": "2016-05-12T20:29:43+02:00",
+            "last-modified": "2016-05-12T20:29:43+00:00",
             "code": "13021",
             "title": "No Funny Stuff",
             "type": "Action",
@@ -697,9 +717,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "b046d41f-0b5c-4c0c-8d71-507c7877807e",
+            "isMultiple": false,
             "value": "Clubs10",
-            "url": "https://dtdb.co/en/card/13021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/13021.jpg"
+            "url": "/en/card/13021",
+            "imagesrc": "/images/cards/en/13021.jpg"
         }
     ]
 }

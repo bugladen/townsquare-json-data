@@ -6,10 +6,10 @@
     "available": "2015-05-18",
     "known": 21,
     "total": 21,
-    "url": "https://dtdb.co/en/set/FJ",
+    "url": "/en/set/FJ",
     "cards": [
         {
-            "last-modified": "2016-02-23T20:05:23+01:00",
+            "last-modified": "2016-02-23T20:05:23+00:00",
             "code": "06001",
             "title": "Funtime Freddy",
             "type": "Dude",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2fab82a8-2a4d-4545-855a-9d1ea011a8c9",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/06001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06001.jpg"
+            "url": "/en/card/06001",
+            "imagesrc": "/images/cards/en/06001.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:06:43+02:00",
+            "last-modified": "2015-10-02T20:06:43+00:00",
             "code": "06002",
             "title": "The Flying Popescus",
             "type": "Dude",
@@ -70,12 +71,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "7d58d611-07a2-41e6-ad4d-fc51cc794847",
+            "isMultiple": false,
             "value": "Spades8",
-            "url": "https://dtdb.co/en/card/06002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06002.jpg"
+            "url": "/en/card/06002",
+            "imagesrc": "/images/cards/en/06002.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:07:04+02:00",
+            "last-modified": "2015-10-02T20:07:04+00:00",
             "code": "06003",
             "title": "Andrew Burton",
             "type": "Dude",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "7b51deb6-fb5f-4624-8473-32533ec7309c",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/06003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06003.jpg"
+            "url": "/en/card/06003",
+            "imagesrc": "/images/cards/en/06003.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:07:25+02:00",
+            "last-modified": "2015-10-02T20:07:25+00:00",
             "code": "06004",
             "title": "Elmore Rhine",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "e341450b-9b41-4ae1-a1aa-fa50ac743f90",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/06004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06004.jpg"
+            "url": "/en/card/06004",
+            "imagesrc": "/images/cards/en/06004.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:07:48+02:00",
+            "last-modified": "2015-10-02T20:07:48+00:00",
             "code": "06005",
             "title": "Howard Aswell",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "a44b9e09-8941-4e30-ab0e-c2171949e8d5",
+            "isMultiple": false,
             "value": "Spades4",
-            "url": "https://dtdb.co/en/card/06005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06005.jpg"
+            "url": "/en/card/06005",
+            "imagesrc": "/images/cards/en/06005.jpg"
         },
         {
-            "last-modified": "2020-02-08T23:19:48+01:00",
+            "last-modified": "2020-02-08T23:19:48+00:00",
             "code": "06006",
             "title": "Louis Pasteur",
             "type": "Dude",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "bc36b880-9e3c-458b-8ef4-9730a926bf38",
+            "isMultiple": false,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/06006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06006.jpg"
+            "url": "/en/card/06006",
+            "imagesrc": "/images/cards/en/06006.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:08:47+02:00",
+            "last-modified": "2015-10-02T20:08:47+00:00",
             "code": "06007",
             "title": "Benny McGill",
             "type": "Dude",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "135a9ce8-4e8b-463a-9fcc-23f0168e4762",
+            "isMultiple": false,
             "value": "Spades2",
-            "url": "https://dtdb.co/en/card/06007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06007.jpg"
+            "url": "/en/card/06007",
+            "imagesrc": "/images/cards/en/06007.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:09:07+02:00",
+            "last-modified": "2015-10-02T20:09:07+00:00",
             "code": "06008",
             "title": "Marion Seville (Exp.1)",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "9440378f-dd04-426c-9696-f24e0789e528",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/06008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06008.jpg"
+            "url": "/en/card/06008",
+            "imagesrc": "/images/cards/en/06008.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:09:48+02:00",
+            "last-modified": "2015-10-02T20:09:48+00:00",
             "code": "06009",
             "title": "J.W. Byrne",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "fde8c18b-58e2-40ab-b407-fe42a4fe549d",
+            "isMultiple": false,
             "value": "Spades12",
-            "url": "https://dtdb.co/en/card/06009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06009.jpg"
+            "url": "/en/card/06009",
+            "imagesrc": "/images/cards/en/06009.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:10:39+02:00",
+            "last-modified": "2015-10-02T20:10:39+00:00",
             "code": "06010",
             "title": "Shane & Graves Security",
             "type": "Deed",
@@ -334,12 +343,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "18df456c-38ac-4e2b-b4ab-f309849d2cb7",
+            "isMultiple": true,
             "value": "Diams5",
-            "url": "https://dtdb.co/en/card/06010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06010.jpg"
+            "url": "/en/card/06010",
+            "imagesrc": "/images/cards/en/06010.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:11:10+02:00",
+            "last-modified": "2015-10-02T20:11:10+00:00",
             "code": "06011",
             "title": "Gomorra Jail",
             "type": "Deed",
@@ -367,12 +377,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "edc1d27d-2cd3-494f-90d8-36f9edfdbb61",
+            "isMultiple": false,
             "value": "Diams10",
-            "url": "https://dtdb.co/en/card/06011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06011.jpg"
+            "url": "/en/card/06011",
+            "imagesrc": "/images/cards/en/06011.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:11:43+02:00",
+            "last-modified": "2015-10-02T20:11:43+00:00",
             "code": "06012",
             "title": "Diable en Boite",
             "type": "Goods",
@@ -400,12 +411,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "438f980e-0981-473e-a9c5-0a8d07ee4634",
+            "isMultiple": false,
             "value": "Hearts1",
-            "url": "https://dtdb.co/en/card/06012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06012.jpg"
+            "url": "/en/card/06012",
+            "imagesrc": "/images/cards/en/06012.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:12:10+02:00",
+            "last-modified": "2015-10-02T20:12:10+00:00",
             "code": "06013",
             "title": "Legal Instruments",
             "type": "Goods",
@@ -433,12 +445,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "caff0709-27f0-4596-8cbb-ad1b403a2368",
+            "isMultiple": false,
             "value": "Hearts4",
-            "url": "https://dtdb.co/en/card/06013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06013.jpg"
+            "url": "/en/card/06013",
+            "imagesrc": "/images/cards/en/06013.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:12:37+02:00",
+            "last-modified": "2015-10-02T20:12:37+00:00",
             "code": "06014",
             "title": "Recursive Motion Machine",
             "type": "Goods",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4e59a712-6f55-4703-a420-a1f62b483afa",
+            "isMultiple": false,
             "value": "Hearts6",
-            "url": "https://dtdb.co/en/card/06014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06014.jpg"
+            "url": "/en/card/06014",
+            "imagesrc": "/images/cards/en/06014.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:12:57+02:00",
+            "last-modified": "2015-10-02T20:12:57+00:00",
             "code": "06015",
             "title": "Winchester Model 1873",
             "type": "Goods",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "c5a6c2ba-866e-4854-bbaf-4e3fd6ea49de",
+            "isMultiple": true,
             "value": "Hearts6",
-            "url": "https://dtdb.co/en/card/06015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06015.jpg"
+            "url": "/en/card/06015",
+            "imagesrc": "/images/cards/en/06015.jpg"
         },
         {
-            "last-modified": "2015-05-11T13:28:16+02:00",
+            "last-modified": "2015-05-11T13:28:16+00:00",
             "code": "06016",
             "title": "Fancy New Hat",
             "type": "Goods",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "bb4aad56-6d02-4088-9f20-f64c571f593b",
+            "isMultiple": true,
             "value": "Hearts13",
-            "url": "https://dtdb.co/en/card/06016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06016.jpg"
+            "url": "/en/card/06016",
+            "imagesrc": "/images/cards/en/06016.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:13:46+02:00",
+            "last-modified": "2015-10-02T20:13:46+00:00",
             "code": "06017",
             "title": "Confession",
             "type": "Spell",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "51b83721-61e5-42bc-be9e-8b671f0668d4",
+            "isMultiple": true,
             "value": "Hearts5",
-            "url": "https://dtdb.co/en/card/06017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06017.jpg"
+            "url": "/en/card/06017",
+            "imagesrc": "/images/cards/en/06017.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:14:02+02:00",
+            "last-modified": "2015-10-02T20:14:02+00:00",
             "code": "06018",
             "title": "Shield of Faith",
             "type": "Spell",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ae0d585d-25e0-4495-8757-71ef0efffb0e",
+            "isMultiple": true,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/06018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06018.jpg"
+            "url": "/en/card/06018",
+            "imagesrc": "/images/cards/en/06018.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:14:32+02:00",
+            "last-modified": "2015-10-02T20:14:32+00:00",
             "code": "06019",
             "title": "Rope and Ride",
             "type": "Action",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1e6f4bb8-762f-4e61-9f19-b3585c0f5186",
+            "isMultiple": false,
             "value": "Clubs3",
-            "url": "https://dtdb.co/en/card/06019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06019.jpg"
+            "url": "/en/card/06019",
+            "imagesrc": "/images/cards/en/06019.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:15:14+02:00",
+            "last-modified": "2015-10-02T20:15:14+00:00",
             "code": "06020",
             "title": "Incubation",
             "type": "Action",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "f36622a2-667f-43bc-ac16-0f8c8dabec00",
+            "isMultiple": false,
             "value": "Clubs7",
-            "url": "https://dtdb.co/en/card/06020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06020.jpg"
+            "url": "/en/card/06020",
+            "imagesrc": "/images/cards/en/06020.jpg"
         },
         {
-            "last-modified": "2015-10-02T20:15:41+02:00",
+            "last-modified": "2015-10-02T20:15:41+00:00",
             "code": "06021",
             "title": "Flight of the Lepus",
             "type": "Action",
@@ -697,9 +717,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "3e1d8cfb-03b1-433a-a7ae-b12f124fb7ef",
+            "isMultiple": true,
             "value": "Clubs11",
-            "url": "https://dtdb.co/en/card/06021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/06021.jpg"
+            "url": "/en/card/06021",
+            "imagesrc": "/images/cards/en/06021.jpg"
         }
     ]
 }

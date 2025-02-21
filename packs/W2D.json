@@ -1,15 +1,15 @@
 {
     "name": "Welcome to Deadwood",
     "code": "W2D",
-    "number": 24,
+    "number": 1,
     "cyclenumber": 13,
     "available": "2021-01-01",
     "known": 56,
     "total": 56,
-    "url": "https://dtdb.co/en/set/W2D",
+    "url": "/en/set/W2D",
     "cards": [
         {
-            "last-modified": "2020-12-25T04:56:47+01:00",
+            "last-modified": "2020-12-25T04:56:47+00:00",
             "code": "23001",
             "title": "Yasmin Tian",
             "type": "Dude",
@@ -37,12 +37,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "F92310E9-2EF0-E0F5-F6BD-8AB6FF120396\n",
+            "isMultiple": false,
             "value": "Spades4",
-            "url": "https://dtdb.co/en/card/23001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23001.jpg"
+            "url": "/en/card/23001",
+            "imagesrc": "/images/cards/en/23001.jpg"
         },
         {
-            "last-modified": "2020-12-25T04:58:28+01:00",
+            "last-modified": "2020-12-25T04:58:28+00:00",
             "code": "23002",
             "title": "\"Dynamite\" Jacc",
             "type": "Dude",
@@ -70,19 +71,20 @@
             "control": null,
             "wealth": null,
             "octgnid": "165D10F2-BC2A-4F22-EC82-00E85C2BB283\n",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/23002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23002.jpg"
+            "url": "/en/card/23002",
+            "imagesrc": "/images/cards/en/23002.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:55:43+02:00",
+            "last-modified": "2022-01-13T17:38:47+00:00",
             "code": "23003",
             "title": "Bai Yang Chen (Exp.1)",
             "type": "Dude",
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "Experienced 1 • Kung Fu 2",
-            "text": "Bai Yang Chen cannot have attachments.\r\n\r\nWhile Bai Yang Chen is in a posse, after each shootout play <i>(including passing),</i> remove any modifiers to his bullet rating, set it to 5, and then reduce it by 1 for each card in your hand.\r\n\r\n<b>Noon:</b> If you have no ghost rock in your stash, draw a card.",
+            "text": "Can only attach Kung Fu Techniques.\r\n\r\nWhile Bai Yang Chen is in a posse, after each shootout play <i>(including passing),</i> remove any modifiers to his bullet rating, set it to 5, and then reduce it by 1 for each card in your hand.\r\n\r\n<b>Noon:</b> If you have no ghost rock in your stash, draw a card.",
             "cost": 4,
             "gang": "Anarchists",
             "gang_code": "anarchists",
@@ -103,12 +105,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "7917E2E5-6155-16A3-10F3-67A9B5566FDB",
+            "isMultiple": false,
             "value": "Spades8",
-            "url": "https://dtdb.co/en/card/23003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23003.jpg"
+            "url": "/en/card/23003",
+            "imagesrc": "/images/cards/en/23003.jpg"
         },
         {
-            "last-modified": "2020-12-25T07:01:11+01:00",
+            "last-modified": "2020-12-25T07:01:11+00:00",
             "code": "23004",
             "title": "Huang Li",
             "type": "Dude",
@@ -136,12 +139,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ACD35B70-FEF5-F8EF-DAFC-1C50933CB85D\n",
+            "isMultiple": false,
             "value": "Spades13",
-            "url": "https://dtdb.co/en/card/23004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23004.jpg"
+            "url": "/en/card/23004",
+            "imagesrc": "/images/cards/en/23004.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:55:24+02:00",
+            "last-modified": "2020-09-22T00:55:24+00:00",
             "code": "23005",
             "title": "Arthur Dingler",
             "type": "Dude",
@@ -169,12 +173,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ACE5F009-2377-6E35-3F48-E8A7F87F72AF\n",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/23005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23005.jpg"
+            "url": "/en/card/23005",
+            "imagesrc": "/images/cards/en/23005.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:02:05+01:00",
+            "last-modified": "2020-12-25T05:02:05+00:00",
             "code": "23006",
             "title": "Deadwood Dick",
             "type": "Dude",
@@ -202,12 +207,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "23893F82-0BF3-E093-95CD-91DC43121179\n",
+            "isMultiple": false,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/23006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23006.jpg"
+            "url": "/en/card/23006",
+            "imagesrc": "/images/cards/en/23006.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:04:12+01:00",
+            "last-modified": "2020-12-25T05:04:12+00:00",
             "code": "23007",
             "title": "Al Swearengen",
             "type": "Dude",
@@ -235,12 +241,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1DF76E4D-4178-02E1-CAEB-A76C06E0B34E\n",
+            "isMultiple": false,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/23007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23007.jpg"
+            "url": "/en/card/23007",
+            "imagesrc": "/images/cards/en/23007.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:05:54+01:00",
+            "last-modified": "2020-12-25T05:05:54+00:00",
             "code": "23008",
             "title": "Aunt Lou Marchbanks",
             "type": "Dude",
@@ -268,12 +275,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "cd76cc0e-0390-4fca-fc93-1d5b3ba65048\n",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/23008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23008.jpg"
+            "url": "/en/card/23008",
+            "imagesrc": "/images/cards/en/23008.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:08:22+01:00",
+            "last-modified": "2020-12-25T05:08:22+00:00",
             "code": "23009",
             "title": "Lew Esquilin",
             "type": "Dude",
@@ -301,12 +309,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "70479907-69CD-DE1A-BE32-86B2B48DC6FE\n",
+            "isMultiple": false,
             "value": "Spades2",
-            "url": "https://dtdb.co/en/card/23009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23009.jpg"
+            "url": "/en/card/23009",
+            "imagesrc": "/images/cards/en/23009.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:09:57+01:00",
+            "last-modified": "2020-12-25T05:09:57+00:00",
             "code": "23010",
             "title": "Mourning Mist",
             "type": "Dude",
@@ -334,12 +343,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "377CCEBD-2C23-05F9-498A-8F3B1A02CBB6\n",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/23010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23010.jpg"
+            "url": "/en/card/23010",
+            "imagesrc": "/images/cards/en/23010.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:55:14+02:00",
+            "last-modified": "2020-09-22T00:55:14+00:00",
             "code": "23011",
             "title": "Victor \"Nines\" de Boré",
             "type": "Dude",
@@ -367,12 +377,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "9BF10098-29D7-40BA-2F51-4461062E822E\n",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/23011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23011.jpg"
+            "url": "/en/card/23011",
+            "imagesrc": "/images/cards/en/23011.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:12:08+01:00",
+            "last-modified": "2020-12-25T05:12:08+00:00",
             "code": "23012",
             "title": "The Angler",
             "type": "Dude",
@@ -400,12 +411,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "0FBD307A-D4A2-05E6-4D29-C8B665683066",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/23012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23012.jpg"
+            "url": "/en/card/23012",
+            "imagesrc": "/images/cards/en/23012.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:14:11+01:00",
+            "last-modified": "2020-12-25T05:14:11+00:00",
             "code": "23013",
             "title": "Sifting Squirrel",
             "type": "Dude",
@@ -433,12 +445,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "A1FC8CE3-4E29-ACF6-9390-80CA1679AE12\n",
+            "isMultiple": false,
             "value": "Spades2",
-            "url": "https://dtdb.co/en/card/23013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23013.jpg"
+            "url": "/en/card/23013",
+            "imagesrc": "/images/cards/en/23013.jpg"
         },
         {
-            "last-modified": "2020-12-25T07:03:35+01:00",
+            "last-modified": "2020-12-25T07:03:35+00:00",
             "code": "23014",
             "title": "Lewis \"Grizzly\" Evans",
             "type": "Dude",
@@ -466,12 +479,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "193BD6A0-D120-CB58-D562-DE5707C9E982\n",
+            "isMultiple": false,
             "value": "Spades6",
-            "url": "https://dtdb.co/en/card/23014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23014.jpg"
+            "url": "/en/card/23014",
+            "imagesrc": "/images/cards/en/23014.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:16:41+01:00",
+            "last-modified": "2020-12-25T05:16:41+00:00",
             "code": "23015",
             "title": "\"Professor\" Duncan (Exp.1)",
             "type": "Dude",
@@ -499,12 +513,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "AC4EA292-CBF6-C502-0F1D-B677636BDE47\n",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/23015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23015.jpg"
+            "url": "/en/card/23015",
+            "imagesrc": "/images/cards/en/23015.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:17:51+01:00",
+            "last-modified": "2021-12-26T16:11:57+00:00",
             "code": "23016",
             "title": "Yiska",
             "type": "Dude",
@@ -532,12 +547,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "F3C039D3-EBF4-0D99-4541-7B5DA89262C6\n",
+            "isMultiple": false,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/23016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23016.jpg"
+            "url": "/en/card/23016",
+            "imagesrc": "/images/cards/en/23016.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:45:07+01:00",
+            "last-modified": "2020-12-25T05:45:07+00:00",
             "code": "23017",
             "title": "Dr. JT Goodenough",
             "type": "Dude",
@@ -565,12 +581,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "F87A0195-7757-9AA2-2875-0AE73F4EC6B8\n",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/23017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23017.jpg"
+            "url": "/en/card/23017",
+            "imagesrc": "/images/cards/en/23017.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:55:03+02:00",
+            "last-modified": "2020-09-22T00:55:03+00:00",
             "code": "23018",
             "title": "Seth Bullock",
             "type": "Dude",
@@ -598,12 +615,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "F1FD3556-4D53-2941-E3A2-69851ECF7FDE\n",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/23018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23018.jpg"
+            "url": "/en/card/23018",
+            "imagesrc": "/images/cards/en/23018.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:46:55+01:00",
+            "last-modified": "2020-12-25T05:46:55+00:00",
             "code": "23019",
             "title": "Clint Ramsey (Exp.1)",
             "type": "Dude",
@@ -631,12 +649,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "AAD95A53-2961-ED18-535D-494554E06425\n",
+            "isMultiple": false,
             "value": "Spades10",
-            "url": "https://dtdb.co/en/card/23019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23019.jpg"
+            "url": "/en/card/23019",
+            "imagesrc": "/images/cards/en/23019.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:48:42+01:00",
+            "last-modified": "2020-12-25T05:48:42+00:00",
             "code": "23020",
             "title": "Mimi \"The Nun\" O'Brien",
             "type": "Dude",
@@ -664,12 +683,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4C0B90C2-A605-AB0B-A449-46F823BFA1BC\n",
+            "isMultiple": false,
             "value": "Spades11",
-            "url": "https://dtdb.co/en/card/23020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23020.jpg"
+            "url": "/en/card/23020",
+            "imagesrc": "/images/cards/en/23020.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:50:13+01:00",
+            "last-modified": "2020-12-25T05:50:13+00:00",
             "code": "23021",
             "title": "Sam Bass",
             "type": "Dude",
@@ -697,12 +717,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "E4CD7B8F-066B-476B-EA81-D0F582A15F68\n",
+            "isMultiple": false,
             "value": "Spades1",
-            "url": "https://dtdb.co/en/card/23021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23021.jpg"
+            "url": "/en/card/23021",
+            "imagesrc": "/images/cards/en/23021.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:54:52+02:00",
+            "last-modified": "2020-09-22T00:54:52+00:00",
             "code": "23022",
             "title": "Rosaleen Byrne",
             "type": "Dude",
@@ -730,12 +751,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "DACF7490-BFF1-34B6-6C37-BD25C823E4CB",
+            "isMultiple": false,
             "value": "Spades4",
-            "url": "https://dtdb.co/en/card/23022",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23022.jpg"
+            "url": "/en/card/23022",
+            "imagesrc": "/images/cards/en/23022.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:52:07+01:00",
+            "last-modified": "2020-12-25T05:52:07+00:00",
             "code": "23023",
             "title": "Jack McCall",
             "type": "Dude",
@@ -763,12 +785,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "ED1B1A7D-CAD1-5E36-92EF-113B8F6B6E5A\n",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/23023",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23023.jpg"
+            "url": "/en/card/23023",
+            "imagesrc": "/images/cards/en/23023.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:54:36+02:00",
+            "last-modified": "2020-09-22T00:54:36+00:00",
             "code": "23024",
             "title": "Reggie Mallard",
             "type": "Dude",
@@ -796,12 +819,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "2FC8AC10-3918-2213-B9FB-9AD0D4BC83F9",
+            "isMultiple": false,
             "value": "Spades9",
-            "url": "https://dtdb.co/en/card/23024",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23024.jpg"
+            "url": "/en/card/23024",
+            "imagesrc": "/images/cards/en/23024.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:54:06+01:00",
+            "last-modified": "2020-12-25T05:54:06+00:00",
             "code": "23025",
             "title": "Alferd Packer",
             "type": "Dude",
@@ -829,12 +853,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "D1814157-4464-C071-CBA9-D53B565A3C80\n",
+            "isMultiple": false,
             "value": "Spades3",
-            "url": "https://dtdb.co/en/card/23025",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23025.jpg"
+            "url": "/en/card/23025",
+            "imagesrc": "/images/cards/en/23025.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:56:37+01:00",
+            "last-modified": "2020-12-25T05:56:37+00:00",
             "code": "23026",
             "title": "John \"Aces\" Radcliffe (Exp.1)",
             "type": "Dude",
@@ -862,12 +887,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "C1023D9F-B2EC-0DBA-CCED-F28E480D7914\n",
+            "isMultiple": false,
             "value": "Spades5",
-            "url": "https://dtdb.co/en/card/23026",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23026.jpg"
+            "url": "/en/card/23026",
+            "imagesrc": "/images/cards/en/23026.jpg"
         },
         {
-            "last-modified": "2021-01-05T01:19:46+01:00",
+            "last-modified": "2021-01-05T01:19:46+00:00",
             "code": "23027",
             "title": "Willa Mae MacGowan (Exp.1)",
             "type": "Dude",
@@ -895,12 +921,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "E1917BC9-2145-3C06-0535-2414D542F995\n",
+            "isMultiple": false,
             "value": "Spades7",
-            "url": "https://dtdb.co/en/card/23027",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23027.jpg"
+            "url": "/en/card/23027",
+            "imagesrc": "/images/cards/en/23027.jpg"
         },
         {
-            "last-modified": "2020-12-25T05:59:46+01:00",
+            "last-modified": "2020-12-25T05:59:46+00:00",
             "code": "23028",
             "title": "New Varney Nosferatu",
             "type": "Dude",
@@ -928,12 +955,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "1A882871-8071-A72E-7215-7C11639CFF43\n",
+            "isMultiple": false,
             "value": "Spades9",
-            "url": "https://dtdb.co/en/card/23028",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23028.jpg"
+            "url": "/en/card/23028",
+            "imagesrc": "/images/cards/en/23028.jpg"
         },
         {
-            "last-modified": "2020-12-26T18:48:43+01:00",
+            "last-modified": "2020-12-26T18:48:43+00:00",
             "code": "23029",
             "title": "Carmichael's Livery",
             "type": "Deed",
@@ -961,12 +989,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "3EF8B7AF-D65A-6468-8DFD-B4ABF43E8B75\n",
+            "isMultiple": false,
             "value": "Diams1",
-            "url": "https://dtdb.co/en/card/23029",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23029.jpg"
+            "url": "/en/card/23029",
+            "imagesrc": "/images/cards/en/23029.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:54:26+02:00",
+            "last-modified": "2020-09-22T00:54:26+00:00",
             "code": "23030",
             "title": "Land Purchase",
             "type": "Deed",
@@ -994,12 +1023,13 @@
             "control": 0,
             "wealth": null,
             "octgnid": "4C98FC02-ACBF-C049-9034-48ADFEA74251",
+            "isMultiple": false,
             "value": "Diams3",
-            "url": "https://dtdb.co/en/card/23030",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23030.jpg"
+            "url": "/en/card/23030",
+            "imagesrc": "/images/cards/en/23030.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:54:14+02:00",
+            "last-modified": "2020-09-22T00:54:14+00:00",
             "code": "23031",
             "title": "Heath's Curiosity Shoppe",
             "type": "Deed",
@@ -1027,12 +1057,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "1F754146-A202-FA7C-9806-0EFDA83C2B5F\n",
+            "isMultiple": false,
             "value": "Diams4",
-            "url": "https://dtdb.co/en/card/23031",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23031.jpg"
+            "url": "/en/card/23031",
+            "imagesrc": "/images/cards/en/23031.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:04:23+01:00",
+            "last-modified": "2020-12-25T06:04:23+00:00",
             "code": "23032",
             "title": "The Gem Theater",
             "type": "Deed",
@@ -1060,12 +1091,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "764C8995-7425-4D62-6DC4-EAD649A52C10\n",
+            "isMultiple": false,
             "value": "Diams5",
-            "url": "https://dtdb.co/en/card/23032",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23032.jpg"
+            "url": "/en/card/23032",
+            "imagesrc": "/images/cards/en/23032.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:54:04+02:00",
+            "last-modified": "2020-09-22T00:54:04+00:00",
             "code": "23033",
             "title": "Baird's Debt Collections",
             "type": "Deed",
@@ -1093,12 +1125,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "90059DCE-A180-A807-A370-B2D498669C7A\n",
+            "isMultiple": false,
             "value": "Diams6",
-            "url": "https://dtdb.co/en/card/23033",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23033.jpg"
+            "url": "/en/card/23033",
+            "imagesrc": "/images/cards/en/23033.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:05:51+01:00",
+            "last-modified": "2020-12-25T06:05:51+00:00",
             "code": "23034",
             "title": "Cheyenne Club",
             "type": "Deed",
@@ -1126,12 +1159,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "7F0F107B-72C4-09AD-1FC2-1C3C9D527EA3\n",
+            "isMultiple": false,
             "value": "Diams7",
-            "url": "https://dtdb.co/en/card/23034",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23034.jpg"
+            "url": "/en/card/23034",
+            "imagesrc": "/images/cards/en/23034.jpg"
         },
         {
-            "last-modified": "2020-12-26T18:48:58+01:00",
+            "last-modified": "2020-12-26T18:48:58+00:00",
             "code": "23035",
             "title": "Nuttal & Mann's No. 10 Saloon",
             "type": "Deed",
@@ -1159,12 +1193,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "267714DC-8B1C-0DA2-1888-3F4BA1DA90A4\n",
+            "isMultiple": false,
             "value": "Diams11",
-            "url": "https://dtdb.co/en/card/23035",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23035.jpg"
+            "url": "/en/card/23035",
+            "imagesrc": "/images/cards/en/23035.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:08:38+01:00",
+            "last-modified": "2020-12-25T06:08:38+00:00",
             "code": "23036",
             "title": "Winner's Circle Auction House",
             "type": "Deed",
@@ -1192,12 +1227,13 @@
             "control": 1,
             "wealth": null,
             "octgnid": "CBBCBCB0-DFFF-4F0C-D519-401B4451AC74\n",
+            "isMultiple": false,
             "value": "Diams12",
-            "url": "https://dtdb.co/en/card/23036",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23036.jpg"
+            "url": "/en/card/23036",
+            "imagesrc": "/images/cards/en/23036.jpg"
         },
         {
-            "last-modified": "2020-09-22T00:53:52+02:00",
+            "last-modified": "2020-09-22T00:53:52+00:00",
             "code": "23037",
             "title": "Feathered Friend",
             "type": "Goods",
@@ -1225,12 +1261,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "97503D43-A3B3-8D2D-8AE6-EB90A79737FE\n",
+            "isMultiple": false,
             "value": "Hearts1",
-            "url": "https://dtdb.co/en/card/23037",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23037.jpg"
+            "url": "/en/card/23037",
+            "imagesrc": "/images/cards/en/23037.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:10:04+01:00",
+            "last-modified": "2020-12-25T06:10:04+00:00",
             "code": "23038",
             "title": "Bulletproof Vest",
             "type": "Goods",
@@ -1258,12 +1295,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "A3F5074F-F214-F8FA-4762-CEB5E24C25BF\n",
+            "isMultiple": false,
             "value": "Hearts3",
-            "url": "https://dtdb.co/en/card/23038",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23038.jpg"
+            "url": "/en/card/23038",
+            "imagesrc": "/images/cards/en/23038.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:11:12+01:00",
+            "last-modified": "2020-12-25T06:11:12+00:00",
             "code": "23039",
             "title": "Pale Horse",
             "type": "Goods",
@@ -1291,12 +1329,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "389C1CAB-AF96-F57E-870C-ABF5DE083C32\n",
+            "isMultiple": false,
             "value": "Hearts9",
-            "url": "https://dtdb.co/en/card/23039",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23039.jpg"
+            "url": "/en/card/23039",
+            "imagesrc": "/images/cards/en/23039.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:12:50+01:00",
+            "last-modified": "2020-12-25T06:12:50+00:00",
             "code": "23040",
             "title": "Kinetic Accretion Actualizer",
             "type": "Goods",
@@ -1324,12 +1363,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "077072DB-C333-E4DE-62C5-9C1547A137C7\n",
+            "isMultiple": false,
             "value": "Hearts13",
-            "url": "https://dtdb.co/en/card/23040",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23040.jpg"
+            "url": "/en/card/23040",
+            "imagesrc": "/images/cards/en/23040.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:38:08+01:00",
+            "last-modified": "2020-12-25T06:38:08+00:00",
             "code": "23041",
             "title": "Missed Me!",
             "type": "Spell",
@@ -1357,12 +1397,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "446B56B5-5E3D-DA1B-28AF-7948A194C1E5\n",
+            "isMultiple": false,
             "value": "Hearts5",
-            "url": "https://dtdb.co/en/card/23041",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23041.jpg"
+            "url": "/en/card/23041",
+            "imagesrc": "/images/cards/en/23041.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:39:13+01:00",
+            "last-modified": "2020-12-25T06:39:13+00:00",
             "code": "23042",
             "title": "Mark of War",
             "type": "Spell",
@@ -1390,12 +1431,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "25FB9EC5-3A7B-5A36-BE52-F8D063F9090E\n",
+            "isMultiple": false,
             "value": "Hearts7",
-            "url": "https://dtdb.co/en/card/23042",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23042.jpg"
+            "url": "/en/card/23042",
+            "imagesrc": "/images/cards/en/23042.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:40:40+01:00",
+            "last-modified": "2020-12-25T06:40:40+00:00",
             "code": "23043",
             "title": "We Stand Amazed",
             "type": "Spell",
@@ -1423,19 +1465,20 @@
             "control": null,
             "wealth": null,
             "octgnid": "8DB59195-8D4B-636D-EC75-485C0C4C81EE\n",
+            "isMultiple": false,
             "value": "Hearts2",
-            "url": "https://dtdb.co/en/card/23043",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23043.jpg"
+            "url": "/en/card/23043",
+            "imagesrc": "/images/cards/en/23043.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:42:22+01:00",
+            "last-modified": "2021-06-13T06:05:20+00:00",
             "code": "23044",
             "title": "Benediction",
             "type": "Spell",
             "type_code": "spell",
             "suit": "Hearts",
             "keywords": "Miracle",
-            "text": "<b>Noon Miracle 6:</b> Choose another dude at this or an adjacent location. That dude has +2 to each of their skill ratings <i>(the skills are Huckster, Blessed, Shaman, and Mad Scientist)</i>. If they do not have a skill, this dude has +1 bullets.",
+            "text": "<b>Noon Miracle 6:</b> Choose another dude at this or an adjacent location. That dude has +2 to each of their skill ratings <i>(the skills are Huckster, Blessed, Shaman, and Mad Scientist)</i>. If they do not have a skill, the dude has +1 bullets.",
             "cost": 0,
             "gang": "Neutral",
             "gang_code": "neutral",
@@ -1456,12 +1499,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "22F9EACA-E043-D07C-8679-BF17A1C990C2\n",
+            "isMultiple": false,
             "value": "Hearts8",
-            "url": "https://dtdb.co/en/card/23044",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23044.jpg"
+            "url": "/en/card/23044",
+            "imagesrc": "/images/cards/en/23044.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:43:28+01:00",
+            "last-modified": "2020-12-25T06:43:28+00:00",
             "code": "23045",
             "title": "Guiding the Pack",
             "type": "Spell",
@@ -1489,12 +1533,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "B636E8A0-6691-AE46-7965-C14ABDE2BD96\n",
+            "isMultiple": false,
             "value": "Hearts6",
-            "url": "https://dtdb.co/en/card/23045",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23045.jpg"
+            "url": "/en/card/23045",
+            "imagesrc": "/images/cards/en/23045.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:45:51+01:00",
+            "last-modified": "2020-12-25T06:45:51+00:00",
             "code": "23046",
             "title": "Elk's Protection",
             "type": "Spell",
@@ -1522,12 +1567,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "4C7E01AC-9277-4F11-8B82-2CEB53B69FFC\n",
+            "isMultiple": false,
             "value": "Hearts11",
-            "url": "https://dtdb.co/en/card/23046",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23046.jpg"
+            "url": "/en/card/23046",
+            "imagesrc": "/images/cards/en/23046.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:47:03+01:00",
+            "last-modified": "2020-12-25T06:47:03+00:00",
             "code": "23047",
             "title": "Get Off My Land!",
             "type": "Action",
@@ -1555,12 +1601,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "887C80E4-FDF6-59F9-BEA4-8E26623BF9BF\n",
+            "isMultiple": false,
             "value": "Clubs2",
-            "url": "https://dtdb.co/en/card/23047",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23047.jpg"
+            "url": "/en/card/23047",
+            "imagesrc": "/images/cards/en/23047.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:48:22+01:00",
+            "last-modified": "2020-12-25T06:48:22+00:00",
             "code": "23048",
             "title": "Look What I Found!",
             "type": "Action",
@@ -1588,12 +1635,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "92621DD3-8DA3-CC58-042A-9E3ACE6B5303\n",
+            "isMultiple": false,
             "value": "Clubs2",
-            "url": "https://dtdb.co/en/card/23048",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23048.jpg"
+            "url": "/en/card/23048",
+            "imagesrc": "/images/cards/en/23048.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:49:39+01:00",
+            "last-modified": "2020-12-25T06:49:39+00:00",
             "code": "23049",
             "title": "Mantis Pinch",
             "type": "Action",
@@ -1621,12 +1669,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "FF5B9022-2B62-9772-30D7-E51D009AFF7E\n",
+            "isMultiple": false,
             "value": "Clubs2",
-            "url": "https://dtdb.co/en/card/23049",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23049.jpg"
+            "url": "/en/card/23049",
+            "imagesrc": "/images/cards/en/23049.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:50:54+01:00",
+            "last-modified": "2020-12-25T06:50:54+00:00",
             "code": "23050",
             "title": "As Nature and God Intended",
             "type": "Action",
@@ -1654,12 +1703,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "466E2763-D160-F31F-87E6-9D1101BF776F\n",
+            "isMultiple": false,
             "value": "Clubs3",
-            "url": "https://dtdb.co/en/card/23050",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23050.jpg"
+            "url": "/en/card/23050",
+            "imagesrc": "/images/cards/en/23050.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:52:11+01:00",
+            "last-modified": "2020-12-25T06:52:11+00:00",
             "code": "23051",
             "title": "Play for Blood",
             "type": "Action",
@@ -1687,12 +1737,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "DA2A0D86-A4AC-F4E2-57D6-43E86E3F9D16\n",
+            "isMultiple": false,
             "value": "Clubs4",
-            "url": "https://dtdb.co/en/card/23051",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23051.jpg"
+            "url": "/en/card/23051",
+            "imagesrc": "/images/cards/en/23051.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:53:30+01:00",
+            "last-modified": "2020-12-25T06:53:30+00:00",
             "code": "23052",
             "title": "Bad Beat",
             "type": "Action",
@@ -1720,12 +1771,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "586E256A-2F1E-25E2-B2DC-0B6653FE2ABC\n",
+            "isMultiple": false,
             "value": "Clubs7",
-            "url": "https://dtdb.co/en/card/23052",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23052.jpg"
+            "url": "/en/card/23052",
+            "imagesrc": "/images/cards/en/23052.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:54:51+01:00",
+            "last-modified": "2020-12-25T06:54:51+00:00",
             "code": "23053",
             "title": "Fallen Star",
             "type": "Action",
@@ -1753,12 +1805,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "677CA7E8-C3A0-FA9A-70DE-2C8BDD11B5CD\n",
+            "isMultiple": false,
             "value": "Clubs7",
-            "url": "https://dtdb.co/en/card/23053",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23053.jpg"
+            "url": "/en/card/23053",
+            "imagesrc": "/images/cards/en/23053.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:56:26+01:00",
+            "last-modified": "2020-12-25T06:56:26+00:00",
             "code": "23054",
             "title": "Masonic Augment",
             "type": "Action",
@@ -1786,12 +1839,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "49661367-01CC-BBFF-F3F6-223859E7A0BF\n",
+            "isMultiple": false,
             "value": "Clubs8",
-            "url": "https://dtdb.co/en/card/23054",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23054.jpg"
+            "url": "/en/card/23054",
+            "imagesrc": "/images/cards/en/23054.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:57:32+01:00",
+            "last-modified": "2020-12-25T06:57:32+00:00",
             "code": "23055",
             "title": "Swagger",
             "type": "Action",
@@ -1819,12 +1873,13 @@
             "control": null,
             "wealth": null,
             "octgnid": "F68F6ED8-BDB8-1A9B-315E-975A2FF35249\n",
+            "isMultiple": false,
             "value": "Clubs10",
-            "url": "https://dtdb.co/en/card/23055",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23055.jpg"
+            "url": "/en/card/23055",
+            "imagesrc": "/images/cards/en/23055.jpg"
         },
         {
-            "last-modified": "2020-12-25T06:58:50+01:00",
+            "last-modified": "2020-12-25T06:58:50+00:00",
             "code": "23056",
             "title": "Vamoosin'",
             "type": "Action",
@@ -1852,9 +1907,10 @@
             "control": null,
             "wealth": null,
             "octgnid": "7F445083-EB31-202B-81D7-FFC2DC41B8DE\n",
+            "isMultiple": false,
             "value": "Clubs11",
-            "url": "https://dtdb.co/en/card/23056",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/23056.jpg"
+            "url": "/en/card/23056",
+            "imagesrc": "/images/cards/en/23056.jpg"
         }
     ]
 }
